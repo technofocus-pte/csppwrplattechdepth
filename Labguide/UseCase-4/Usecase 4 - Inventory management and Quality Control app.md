@@ -94,7 +94,7 @@ For this use case, all participants will need the following:
 
 # Lab instructions
 
-# Exercise 1: Create Inventory management app
+## Exercise 1: Create Inventory management app
 
 In this exercise, you will create a Inventory management app with the
 help of Copilot .Add re-order point column in Dataverse table and create
