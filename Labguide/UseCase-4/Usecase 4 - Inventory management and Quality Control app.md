@@ -398,7 +398,7 @@ defective email to the supplier.**
 > <img src="./media/image49.png" style="width:6.5in;height:2.83681in"
 > alt="A screenshot of a computer Description automatically generated" />
 
-### Conclusion
+**Conclusion**
 
 After completing this exercise, you will have:
 
@@ -625,7 +625,7 @@ style="width:6.4875in;height:2.80764in" />
 
 <img src="./media/image84.png" style="width:6.5in;height:3.90347in" />
 
-### Conclusion
+**Conclusion**
 
 After completing this exercise, you will have:
 
