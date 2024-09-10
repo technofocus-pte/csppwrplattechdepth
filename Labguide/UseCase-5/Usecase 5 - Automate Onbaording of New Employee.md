@@ -500,82 +500,82 @@ style="width:6.49167in;height:3.93333in" />
 
 ### Task 2 : Create employee onboarding Canvas app for the employee
 
-10. From your **Sharepint-\> Employee onboarding**, copy URL and save it
+1. From your **Sharepint-\> Employee onboarding**, copy URL and save it
     Notepad.
 
 <img src="./media/image32.png" style="width:6.5in;height:3.31667in" />
 
-11. Open a new tab and go to **<https://make.powerapps.com/>.** Sign in
+2. Open a new tab and go to **<https://make.powerapps.com/>.** Sign in
     with your office 365 admin tenant and select your environment.
 
-12. Click on **Apps** from left navigation menu. Select **New App- \>
+3. Click on **Apps** from left navigation menu. Select **New App- \>
     Start with a page design.**
 
 <img src="./media/image33.png" style="width:6.5in;height:3.9in" />
 
-13. Select **Blank Canvas** tile**.**
+4. Select **Blank Canvas** tile**.**
 
 > <img src="./media/image34.png" style="width:6.5in;height:2.86667in" />
 
-14. Right click on Screen1 and select **Rename.**
+5. Right click on Screen1 and select **Rename.**
 
 <img src="./media/image35.png"
 style="width:6.49167in;height:4.90833in" />
 
-15. Rename to **Employeeform**
+6. Rename to **Employeeform**
 
 > <img src="./media/image63.png"
 > style="width:5.81667in;height:4.98333in" />
 
-16. Click on **Insert** and select **Edit** form**.**
+7. Click on **Insert** and select **Edit** form**.**
 
 <img src="./media/image64.png" style="width:6.5in;height:3.375in" />
 
-17. Search for **SharePoint** and select **SharePoint connector** from
+8. Search for **SharePoint** and select **SharePoint connector** from
     **Select a data source** dropdown**.**
 
 > <img src="./media/image38.png"
 > style="width:6.49167in;height:4.05833in" />
 
-18. Select **SharePoint** under **Add Connection.**
+9. Select **SharePoint** under **Add Connection.**
 
 <img src="./media/image65.png" style="width:6.5in;height:3.4in" />
 
-19. Enter the **SharePoint list url** copied form step 1 into Enter
+10. Enter the **SharePoint list url** copied form step 1 into Enter
     SharePoint URL text field and then click on **Connect**.
 
-20. Under **Select a list**- \> select **Employee Onboarding** list and
+11. Under **Select a list**- \> select **Employee Onboarding** list and
     then click on **Next.**
 
 <img src="./media/image40.png"
 style="width:6.49167in;height:2.16667in" />
 
-21. Select Employee Onboarding list and then click on Connect.
+12. Select Employee Onboarding list and then click on Connect.
 
 <img src="./media/image41.png"
 style="width:4.94167in;height:7.56667in" />
 
-22. Drag and fit the form into the container.
+13. Drag and fit the form into the container.
 
 <img src="./media/image66.png" style="width:6.5in;height:2.90139in"
 alt="A screenshot of a computer Description automatically generated" />
 
-23. Select **Form 1** and **Display** mode to **New** under properties.
+14. Select **Form 1** and **Display** mode to **New** under properties.
 
 <img src="./media/image67.png"
 style="width:6.49167in;height:2.41667in" />
 
-24. Drag the Form1 container little down and click on **Insert- \>
+15. Drag the Form1 container little down and click on **Insert- \>
     Rectangle** to insert header to the form.
 
 <img src="./media/image68.png" style="width:6.5in;height:3.575in" />
 
-25. Change the width of the rectangle to the container and select
+16. Change the width of the rectangle to the container and select
     **Insert -\> Text label**.
 
 <img src="./media/image69.png" style="width:6.5in;height:3.23333in" />
 
-26. Select the Label and set below **properties**
+17. Select the Label and set below **properties**
 
     1.  **Text : Employee Onboarding Form**
 
@@ -589,47 +589,47 @@ style="width:6.49167in;height:2.41667in" />
 
 <img src="./media/image70.png" style="width:6.5in;height:2.56667in" />
 
-27. Select the EmployeeId field name and change **Font size** to **16**
+18. Select the EmployeeId field name and change **Font size** to **16**
     and **Font weight** to **Bold** under Properties.
 
 <img src="./media/image71.png" style="width:6.5in;height:2.68333in" />
 
-28. Repeat above step for all fields.
+19. Repeat above step for all fields.
 
 > <img src="./media/image72.png" style="width:6.5in;height:3.48611in" />
 
-29. Select **Orientation location** item and set **Visible** property to
+20. Select **Orientation location** item and set **Visible** property to
     **false.**
 
 <img src="./media/image73.png" style="width:6.5in;height:2.86667in" />
 
-30. Select **Have you been to orientation yet**?’s text field and click
+21. Select **Have you been to orientation yet**?’s text field and click
     on **edit** label.
 
 <img src="./media/image74.png"
 style="width:6.49167in;height:2.39167in" />
 
-31. Change label value to **Orientationdropdown**
+22. Change label value to **Orientationdropdown**
 
 <img src="./media/image75.png"
 style="width:6.48333in;height:2.54167in" />
 
-32. Select **Orientation Location data card** and select **Visible** and
+23. Select **Orientation Location data card** and select **Visible** and
     place below formula as shown in below image.
 
 If(*Orientationdropdown*.Selected.Value="No",true,false)
 
 <img src="./media/image76.png" style="width:6.49167in;height:3.775in" />
 
-33. Click on **Save** and enter app name as : **EmployeeOnboardinForm**
+24. Click on **Save** and enter app name as : **EmployeeOnboardinForm**
     and then click on **Save** button.
 
 <img src="./media/image77.png" style="width:6.49167in;height:3.25in" />
 
-34. EmployeeId , First Name ,Last Name and **Manager** will be filled by
+25. EmployeeId , First Name ,Last Name and **Manager** will be filled by
     HR so change the display mode to **View**.
 
-35. Select the field and click **on Advanced-\> Unlock to change
+26. Select the field and click **on Advanced-\> Unlock to change
     properties** and update **Display mode** to
     **Parent.DisplayMode.View**
 
@@ -646,31 +646,31 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image82.png" style="width:6.5in;height:2.34167in"
 alt="A screenshot of a computer Description automatically generated" />
 
-36. Select the **Workemail** Field -\> Unlock property and update
+27. Select the **Workemail** Field -\> Unlock property and update
     **Required** property to **true.** Repeat for other fields if
     required.
 
 > <img src="./media/image83.png" style="width:6.49167in;height:2.575in" />
 
-37. Select the Forms and update **OnFailed** field value to
+28. Select the Forms and update **OnFailed** field value to
 
 > Notify("Required Fields can't be empty.",NotificationType.Error)
 >
 > <img src="./media/image84.png" style="width:6.5in;height:3.45833in" />
 
-38. Select **OnSuccess** and set the value to
+29. Select **OnSuccess** and set the value to
 
 Notify("Thank you for filling out the form",NotificationType.Success)
 
 > <img src="./media/image85.png"
 > style="width:6.49167in;height:2.84167in" />
 
-39. Now, Lets add button to submit at the end of the form. Click on
+30. Now, Lets add button to submit at the end of the form. Click on
     **Inset- \> Button.**
 
 > <img src="./media/image86.png" style="width:6.5in;height:3.75in" />
 
-40. Change the Properties of the button and save the form.
+31. Change the Properties of the button and save the form.
 
     1.  Text -\> **Submit**
 
@@ -678,21 +678,21 @@ Notify("Thank you for filling out the form",NotificationType.Success)
 
 <img src="./media/image87.png" style="width:6.5in;height:2.53333in" />
 
-41. Click on Save and then click on Preview app buttons.
+32. Click on Save and then click on Preview app buttons.
 
 > <img src="./media/image88.png" style="width:6.5in;height:3.525in" />
 
-42. Enter details and then click on Submit.
+33. Enter details and then click on Submit.
 
 <img src="./media/image89.png" style="width:6.5in;height:3.59444in" />
 
-43. You should see success notification.
+34. You should see success notification.
 
 <img src="./media/image90.png" style="width:6.5in;height:3.27361in" />
 
-44. Close the preview window.
+35. Close the preview window.
 
-45. Click ‘on App from Tree View .Select OnStart and enter the below
+36. Click ‘on App from Tree View .Select OnStart and enter the below
     formula.
 
 > Set(
@@ -712,28 +712,28 @@ Notify("Thank you for filling out the form",NotificationType.Success)
 > <img src="./media/image91.png"
 > style="width:6.49167in;height:3.89167in" />
 
-46. Select the Form1 from Tree View. Select item and enter the value as
+37. Select the Form1 from Tree View. Select item and enter the value as
     : **onboardinglistitem**
 
 <img src="./media/image92.png" style="width:6.5in;height:3.86667in" />
 
-47. Click on **Save** and **Publish -\> Publish this version**.
+38. Click on **Save** and **Publish -\> Publish this version**.
 
 <img src="./media/image93.png"
 style="width:6.49167in;height:3.94167in" />
 
-48. Go back to the PowerApps Home page, Click on Apps-\> Your app-\>
+39. Go back to the PowerApps Home page, Click on Apps-\> Your app-\>
     Details.
 
 <img src="./media/image94.png"
 style="width:6.49167in;height:3.60833in" />
 
-49. Copy the Weblink to use in next task.
+40. Copy the Weblink to use in next task.
 
 <img src="./media/image95.png"
 style="width:6.49167in;height:2.98333in" />
 
-50. Close the preview window and navigate to your SharePoint tab and
+41. Close the preview window and navigate to your SharePoint tab and
     check the above record in the list.
 
 > <img src="./media/image96.png" style="width:6.5in;height:2.71319in" />
