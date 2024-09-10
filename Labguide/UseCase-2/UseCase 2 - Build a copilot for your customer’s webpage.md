@@ -421,7 +421,7 @@ alt="A screenshot of a computer Description automatically generated" />
 style="width:6.26806in;height:4.30208in"
 alt="A screenshot of a computer Description automatically generated" />
 
-<span id="_Toc176777013" class="anchor"></span>**Conclusion**
+### Conclusion
 
 After completing this exercise, you will have:
 
@@ -512,7 +512,7 @@ style="width:6.26806in;height:2.93472in" />
 6.  At the top right of the screen, select your CustomerService Trial
     environment from the previous step.
 
-<span id="_Toc176777013" class="anchor"></span>**Conclusion**
+### Conclusion
 
 After completing this exercise, you will have:
 
@@ -805,7 +805,7 @@ style="width:6.16824in;height:2.93309in" />
 > <img src="./0a1db86d2cc1052e3d6811f3792fce06e9978f44.png"
 > style="width:6.26806in;height:3.00833in" />
 
-<span id="_Toc176777013" class="anchor"></span>**Conclusion**
+### Conclusion
 
 After completing this exercise, you will have:
 
@@ -1077,7 +1077,7 @@ style="width:6.26806in;height:2.95764in" />
 <img src="./b164e1810c3e71ef548071334278a3b1451512aa.png"
 style="width:6.26806in;height:2.97292in" />
 
-<span id="_Toc176777013" class="anchor"></span>**Conclusion**
+### Conclusion
 
 After completing this exercise, you will have:
 
@@ -2095,7 +2095,7 @@ style="width:6.26806in;height:2.93125in" />
 <img src="./2a515176c275a11a5558d77f687c181fa4adb2ae.png"
 style="width:6.26806in;height:2.96389in" />
 
-<span id="_Toc176777013" class="anchor"></span>**Conclusion**
+### Conclusion
 
 After completing this exercise, you will have:
 
