@@ -157,8 +157,9 @@ alt="A screenshot of a computer Description automatically generated" />
 > <img src="./media/image9.png" style="width:6.5in;height:2.95208in"
 > alt="A screenshot of a computer Description automatically generated" />
 
-<span id="_Toc176777013" class="anchor"></span>**Task 2 : Create candy
-quality Screen**
+<span id="_Toc176777013" class="anchor"></span>
+
+# Task 2 : Create candy quality Screen
 
 1.  Switch back to Power apps tab and click on **New Screen** and select
     **Blank** template.
