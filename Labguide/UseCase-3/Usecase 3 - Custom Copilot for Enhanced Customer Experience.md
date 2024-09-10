@@ -234,8 +234,7 @@ style="width:6.26806in;height:2.98403in" />
 <img src="./e8b7c58ebb460968eb282d7e07fbe43a3dcd0ecd.png"
 style="width:6.26806in;height:3.14514in" />
 
-
-**Conclusion**
+### Conclusion
 
 After completing all exercise, you will have:
 
@@ -335,7 +334,7 @@ style="width:6.26806in;height:2.95764in" />
 style="width:6.26806in;height:2.97292in" />
 
 
-**Conclusion**
+### Conclusion
 
 After completing all exercise, you will have:
 
@@ -399,7 +398,7 @@ style="width:6.26806in;height:2.93889in" />
 style="width:6.26806in;height:2.85694in" />
 
 
-**Conclusion**
+### Conclusion
 
 1.  Integrated the "Contoso Electronics Services" bot into the "Contoso
     Agent" workstream by connecting it within the Customer Service admin
@@ -477,7 +476,7 @@ style="width:6.26806in;height:3.01111in" />
 style="width:6.26806in;height:2.93125in" />
 
 
-**Conclusion**
+### Conclusion
 
 1.  Logged into Power Pages, created a website using a template, and
     integrated the Copilot bot by adding the widget code to the
