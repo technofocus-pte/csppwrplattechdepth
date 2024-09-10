@@ -1,10 +1,10 @@
 <img src="./media/image1.png"
 style="width:6.26042in;height:2.41667in" />  
-**Level-up CSP Technical Training – Power Platform Facilitator Guide  **
+# Level-up CSP Technical Training – Power Platform Facilitator Guide
 
-Custom Copilot for Enhanced Customer Experience
+## **Custom Copilot for Enhanced Customer Experience**
 
-Lab Guide for Retail Scenario
+**Lab Guide for Retail Scenario**
 
 | Description       | This scenario extends the functionality of the Virtual Assistant copilot for Contoso Electronics, initially developed to assist customers with product discovery and post-purchase activities like return eligibility and refund requests. The enhancement introduces automated case escalation, allowing the copilot to seamlessly transfer conversations to live agents when it cannot resolve a query or when the customer requests human assistance. This ensures a more personalized and efficient customer service experience by blending automated responses with human support for complex issues. |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
