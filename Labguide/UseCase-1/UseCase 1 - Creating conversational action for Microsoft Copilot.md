@@ -84,7 +84,8 @@ These personas will participate in the following sequential scenarios:
 > rights for Mark to approve it from the admin center followed by the
 > testing by Jane.
 
-# Exercise 1: Create a Conversational action
+# Lab instructions
+## Exercise 1: Create a Conversational action
 
 In this exercise, we will sign in for the Copilot Studio trial license,
 and then create a conversational action which will help to retrieve the
@@ -211,7 +212,7 @@ in the topic description about when this specific action needs to be
 invoked. Based on this, the action will be invoked when someone needs
 information regarding the list of holidays for the year 2024.
 
-# Exercise 2: Publishing your conversational action to Microsoft Copilot
+## Exercise 2: Publishing your conversational action to Microsoft Copilot
 
 The objective of this exercise is to publish the action that we created
 in the previous exercise.
