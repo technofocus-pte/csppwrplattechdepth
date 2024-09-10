@@ -140,7 +140,7 @@ For this use case, all participants will need the following: 
 
 # **Lab Instructions**
 
-# Exercise 1: Setting up and congiguring Dynamics 365 Customer Service
+## Exercise 1: Setting up and congiguring Dynamics 365 Customer Service
 
 In this exercise, you'll set up and configure Dynamics 365 Customer
 Service by signing up for a trial, managing users, and configuring
@@ -148,7 +148,7 @@ essential settings. Follow these steps to get hands-on with the
 platform's core features and start optimizing your customer service
 operations.
 
-## Task 1: Sign up for Dynamics 365 Customer Service Trial
+### Task 1: Sign up for Dynamics 365 Customer Service Trial
 
 1.  Begin by opening your preferred web browser and navigating to the
     <https://www.microsoft.com/en-us/dynamics-365/products/customer-service>
@@ -247,7 +247,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image10.png"
 style="width:6.26806in;height:2.9625in" />
 
-## Task 2: Manage a user in Omnichannel for Customer Service
+### Task 2: Manage a user in Omnichannel for Customer Service
 
 1.  Start by accessing the **Dynamics 365 Customer Service admin
     center**.
@@ -310,7 +310,7 @@ alt="A screenshot of a computer Description automatically generated" />
 > <img src="./media/image16.png" style="width:6.26806in;height:2.55417in"
 > alt="A screenshot of a computer Description automatically generated" />
 
-## Task 3: Configure Omnichannel Power Virtual Agent Extension
+### Task 3: Configure Omnichannel Power Virtual Agent Extension
 
 1.  Start by navigating to the
     <https://appsource.microsoft.com/en-cy/product/dynamics-365/mscrm.omnichannelpvaextension?tab=Overview&ref=dynamicsforcrm.com>
@@ -352,7 +352,7 @@ alt="A screenshot of a computer Description automatically generated" />
 > <img src="./media/image20.png" style="width:4.81667in;height:5.03333in"
 > alt="A screenshot of a computer Description automatically generated" />
 
-## Task 4: Configure search settings in the Power Platform Admin Center
+### Task 4: Configure search settings in the Power Platform Admin Center
 
 1.  First, log in to the <https://admin.powerplatform.microsoft.com/>
     using your tenant credentials.
@@ -421,7 +421,7 @@ alt="A screenshot of a computer Description automatically generated" />
 style="width:6.26806in;height:4.30208in"
 alt="A screenshot of a computer Description automatically generated" />
 
-## Conclusion
+**Conclusion**
 
 After completing this exercise, you will have:
 
@@ -440,7 +440,7 @@ After completing this exercise, you will have:
 This ensures a fully functional customer service environment with
 streamlined operations.
 
-# Exercise 2: Signup for Power Apps and Copilot Studio
+## Exercise 2: Signup for Power Apps and Copilot Studio
 
 In this exercise, we will focus on signing up for Microsoft Power Apps
 and Copilot Studio. This process will enable you to access and leverage
@@ -449,7 +449,7 @@ will begin by creating your accounts and setting up the necessary
 environments to start building and configuring your applications and
 Copilot functionalities.
 
-## Task 1: Sign up for Microsoft Power Apps
+### Task 1: Sign up for Microsoft Power Apps
 
 1.  Open your web browser and go to the
     <https://powerapps.microsoft.com/free/> page.
@@ -487,7 +487,7 @@ style="width:6.26806in;height:2.93472in" />
     steps, as you’ll need to select this environment when working in
     Power Apps.
 
-## Task 2: Sign up for Copilot Studio
+### Task 2: Sign up for Copilot Studio
 
 1.  Navigate
     to [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com/) and
@@ -512,9 +512,7 @@ style="width:6.26806in;height:2.93472in" />
 6.  At the top right of the screen, select your CustomerService Trial
     environment from the previous step.
 
-## 
-
-## Conclusion
+**Conclusion**
 
 After completing this exercise, you will have:
 
@@ -527,7 +525,7 @@ After completing this exercise, you will have:
 This prepares you for creating and managing apps with enhanced customer
 service features.
 
-# Exercise 3: Create custom tables
+## Exercise 3: Create custom tables
 
 In this exercise, you'll create custom tables in Power Apps to manage
 data efficiently. You'll start by setting up a solution and assigning it
@@ -536,7 +534,7 @@ tables: "Book Appointments" and "Refund Requests," adding relevant
 columns to capture all necessary information. Follow these steps to
 build and organize your data tables effectively.
 
-## Task 1: Create a Solution in Power Apps
+### Task 1: Create a Solution in Power Apps
 
 1.  Navigate to the Power Apps Maker Portal at
     <https://make.powerapps.com> using your web browser.
@@ -595,7 +593,7 @@ style="width:6.26806in;height:2.98056in" />
 <img src="./media/image38.png"
 style="width:6.26806in;height:2.99444in" />
 
-## Task 2: Set the preferred Solution
+### Task 2: Set the preferred Solution
 
 1.  In the Power Apps Maker portal, navigate to the **Solutions**
     section in the left-hand menu.
@@ -615,7 +613,7 @@ style="width:6.26806in;height:2.96875in" />
 <img src="./media/image40.png"
 style="width:6.26806in;height:2.97778in" />
 
-## Task 3: Create the "Book Appointments" table
+### Task 3: Create the "Book Appointments" table
 
 1.  In the Power Apps Maker portal, select **Tables** from the left-hand
     navigation pane.
@@ -695,7 +693,7 @@ style="width:6.26806in;height:2.96875in" />
 > <img src="./media/image51.png"
 > style="width:6.26806in;height:2.99514in" />
 
-## Task 4: Create the "Refund Requests" table
+### Task 4: Create the "Refund Requests" table
 
 1.  In the Power Apps Maker portal, select **Tables** from the left-hand
     navigation pane.
@@ -807,7 +805,7 @@ style="width:6.16824in;height:2.93309in" />
 > <img src="./0a1db86d2cc1052e3d6811f3792fce06e9978f44.png"
 > style="width:6.26806in;height:3.00833in" />
 
-## Conclusion
+**Conclusion**
 
 After completing this exercise, you will have:
 
@@ -822,7 +820,7 @@ After completing this exercise, you will have:
 This setup helps organize and structure essential customer service
 information in your environment.
 
-# Exercise 4: Build a Copilot in Microsoft Copilot Studio with new AI Capabilities
+## Exercise 4: Build a Copilot in Microsoft Copilot Studio with new AI Capabilities
 
 In this exercise, you will create and configure a new copilot in
 Microsoft Copilot Studio to assist with Contoso Electronics services.
@@ -833,7 +831,7 @@ knowledge base with relevant information, and finally publish your
 copilot to make it operational. Follow these tasks to set up a fully
 functional and intelligent copilot for your organization.
 
-## Task 1: Create Contoso Electronics Services Copilot
+### Task 1: Create Contoso Electronics Services Copilot
 
 1.  Navigate to Microsoft copilot studio.
 
@@ -902,7 +900,7 @@ style="width:6.26806in;height:2.98056in" />
 <img src="./media/image71.png"
 style="width:6.26806in;height:2.95069in" />
 
-## Task 2: Configure security and Generative AI
+### Task 2: Configure security and Generative AI
 
 1.  In Microsoft Copilot Studio, locate and click on the **Settings**
     option in the top-right corner of the screen. This action will open
@@ -961,7 +959,7 @@ style="width:6.26806in;height:2.94444in" />
     copilot to return to the **Overview** tab. This will take you back
     to the main dashboard where you can manage your copilot.
 
-## Task 3: Delete Sample Topics
+### Task 3: Delete Sample Topics
 
 1.  In Microsoft Copilot Studio, navigate to the **Topics** tab. This
     section allows you to manage the topics associated with your
@@ -990,7 +988,7 @@ style="width:6.26806in;height:2.95833in" />
 6.  Follow the same steps to delete **Lesson 2** and **Lesson 3**.
     Ensure each deletion is confirmed as done in the previous step.
 
-## Task 4: Disable System Topics
+### Task 4: Disable System Topics
 
 1.  In Microsoft Copilot Studio, navigate to the **Topics** tab.
 
@@ -1005,7 +1003,7 @@ style="width:6.26806in;height:2.95833in" />
 > <img src="./media/image81.png"
 > style="width:6.26806in;height:2.99306in" />
 
-## Task 5: Create Knowledge Base for Copilot
+### Task 5: Create Knowledge Base for Copilot
 
 1.  Open Microsoft Copilot Studio and go to the **Overview** tab.
 
@@ -1063,7 +1061,7 @@ style="width:6.26806in;height:2.99722in" />
 <img src="./media/image89.png"
 style="width:6.26806in;height:2.96181in" />
 
-## Task 6: Publish your Copilot
+### Task 6: Publish your Copilot
 
 1.  Navigate to Overview section and In Microsoft Copilot Studio, look
     for the **Publish** button on the right side of the screen.
@@ -1079,7 +1077,7 @@ style="width:6.26806in;height:2.95764in" />
 <img src="./b164e1810c3e71ef548071334278a3b1451512aa.png"
 style="width:6.26806in;height:2.97292in" />
 
-## Conclusion
+**Conclusion**
 
 After completing this exercise, you will have:
 
@@ -1099,7 +1097,7 @@ This copilot will streamline customer interactions by providing
 information about laptops, refund policies, and facilitating bookings or
 appointments
 
-# Exercise 5: Create and manage Topics
+## Exercise 5: Create and manage Topics
 
 In this exercise, you will learn how to create and manage topics within
 the Copilot Studio. Topics are essential for defining how your copilot
@@ -1113,7 +1111,7 @@ of your copilot. This exercise will help you set up and fine-tune your
 copilot's ability to handle diverse customer inquiries and interactions
 effectively.
 
-## Task 1: Create a Topic "Product Information"
+### Task 1: Create a Topic "Product Information"
 
 1.  Open Copilot Studio and select the copilot you've created for this
     project.
@@ -1183,7 +1181,7 @@ style="width:6.26806in;height:2.96736in" />
 <img src="./media/image99.png"
 style="width:6.26806in;height:2.95069in" />
 
-## Task 2: Create a Topic "Return Policy Information"
+### Task 2: Create a Topic "Return Policy Information"
 
 1.  Open Copilot Studio and select the copilot you've created for this
     project.
@@ -1254,7 +1252,7 @@ style="width:6.26806in;height:2.95069in" />
 <img src="./media/image107.png"
 style="width:6.26806in;height:2.94792in" />
 
-## Task 3: Create a Topic “Compare laptop”
+### Task 3: Create a Topic “Compare laptop”
 
 1.  Open Copilot Studio and select the copilot you've created for this
     project.
@@ -1321,7 +1319,7 @@ style="width:6.26806in;height:2.93264in" />
 > <img src="./media/image112.png"
 > style="width:6.26806in;height:2.97708in" />
 
-## Task 4: Create a Topic "Book Appointments"
+### Task 4: Create a Topic "Book Appointments"
 
 1.  Open **Copilot Studio** and select the copilot you've created for
     this project.
@@ -1608,7 +1606,7 @@ style="width:6.26806in;height:2.96528in" />
 <img src="./media/image132.png"
 style="width:6.26806in;height:2.96389in" />
 
-## Task 5: Create a Topic "Refund Requests"
+### Task 5: Create a Topic "Refund Requests"
 
 1.  Open **Copilot Studio** and select the copilot you've created for
     this project.
@@ -1892,7 +1890,7 @@ style="width:6.26806in;height:2.95556in" />
 <img src="./media/image149.png"
 style="width:6.26806in;height:2.94792in" />
 
-## Task 6: Configure the Conversation Start Topic
+### Task 6: Configure the Conversation Start Topic
 
 1.  Navigate to Copilot Studio and select the Copilot you've created for
     this project.
@@ -1922,7 +1920,7 @@ style="width:6.26806in;height:2.99028in" />
 <img src="./media/image152.png"
 style="width:6.26806in;height:2.96389in" />
 
-## Task 7: Configure the Conversational Boosting Topic
+### Task 7: Configure the Conversational Boosting Topic
 
 1.  Navigate to Copilot Studio and select the Copilot you've created for
     this project.
@@ -1963,7 +1961,7 @@ style="width:6.26806in;height:2.96736in" />
 > <img src="./media/image155.png"
 > style="width:6.26806in;height:2.96528in" />
 
-## Task 8: Use Generative Answers in the System Fallback Topic
+### Task 8: Use Generative Answers in the System Fallback Topic
 
 1.  In the Copilot pane on the left-hand side of the screen, select the
     copilot you've created to return to the **Knowledge** tab.
@@ -2023,7 +2021,7 @@ style="width:6.26806in;height:2.96875in" />
 <img src="./media/image161.png"
 style="width:6.26806in;height:2.96736in" />
 
-## Task 9: Publish the Copilot
+### Task 9: Publish the Copilot
 
 1.  In the Copilot Studio, find the **Publish** button. This button is
     typically placed on the right side of the window.
@@ -2036,7 +2034,7 @@ style="width:6.26806in;height:2.96736in" />
 <img src="./media/image162.png"
 style="width:6.26806in;height:2.97708in" />
 
-## Test the Copilot
+### Test the Copilot
 
 1.  In the Copilot Studio, select the **Test** button located in the
     top-right corner of the screen. This action opens the testing panel
@@ -2097,7 +2095,7 @@ style="width:6.26806in;height:2.93125in" />
 <img src="./2a515176c275a11a5558d77f687c181fa4adb2ae.png"
 style="width:6.26806in;height:2.96389in" />
 
-## Conclusion
+**Conclusion**
 
 After completing this exercise, you will have:
 
@@ -2120,7 +2118,7 @@ These tasks collectively enhance the copilot's ability to provide
 relevant and accurate information, improving the overall user
 interaction experience.
 
-# Exercise 6: Create Power Automate flow and integrate actions
+## Exercise 6: Create Power Automate flow and integrate actions
 
 In this exercise, you will learn how to create and integrate Power
 Automate flows with your Copilot. These flows will automate key
@@ -2131,7 +2129,7 @@ interactions. By the end of this exercise, you will have set up
 automated workflows that enhance the functionality of your Copilot and
 improve user experience.
 
-## Task 1: Create Power Automate flow to Book an Appointment
+### Task 1: Create Power Automate flow to Book an Appointment
 
 1.  In the Copilot pane on the left-hand side of the screen, click on
     your Copilot to return to the **Overview** tab.
@@ -2262,7 +2260,7 @@ style="width:6.26806in;height:2.95417in" />
 20. Once the flow is published, close the Power Automate tab to return
     to Copilot Studio.
 
-## Task 2: Create action in Copilot for Book Appointments
+### Task 2: Create action in Copilot for Book Appointments
 
 1.  Go to copilot window and click on **Refresh**, (If the Copilot
     window was closed, reopen it and navigate back to the **Copilot
@@ -2337,7 +2335,7 @@ style="width:6.26806in;height:2.94583in" />
 
 <img src="./media/image200.png" style="width:6.26806in;height:2.95in" />
 
-## Task 3: Create Power Automate flow to Refund Requests Flow
+### Task 3: Create Power Automate flow to Refund Requests Flow
 
 1.  In the Copilot pane on the left-hand side of the screen, click on
     your Copilot to return to the **Overview** tab.
@@ -2480,7 +2478,7 @@ style="width:6.26806in;height:2.73889in" />
 19. Once the flow is published, close the Power Automate tab to return
     to Copilot Studio.
 
-## Task 4: Create action in Copilot for Refund Requests
+### Task 4: Create action in Copilot for Refund Requests
 
 1.  Go to copilot window and click on **Refresh**, (If the Copilot
     window was closed, reopen it and navigate back to the **Copilot
@@ -2571,7 +2569,7 @@ style="width:6.26806in;height:3.0375in" />
 <img src="./media/image226.png"
 style="width:6.26806in;height:2.96528in" />
 
-## Task 5: Publish your Copilot
+### Task 5: Publish your Copilot
 
 1.  Navigate to Overview section and In Microsoft Copilot Studio, look
     for the **Publish** button on the right side of the screen.
@@ -2587,7 +2585,7 @@ style="width:6.26806in;height:2.95764in" />
 <img src="./b164e1810c3e71ef548071334278a3b1451512aa.png"
 style="width:6.26806in;height:2.97292in" />
 
-## Conclusion
+**Conclusion**
 
 After completing this exercise, you will have:
 
@@ -2604,7 +2602,7 @@ These automated workflows enhance the Copilot's functionality, allowing
 it to handle appointments and refunds effectively, improving overall
 user experience.
 
-# Test your Copilot
+### Test your Copilot
 
 To test the functionalities of your Copilot and Power Automate flows,
 follow these steps:
