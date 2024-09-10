@@ -101,8 +101,7 @@ help of Copilot .Add re-order point column in Dataverse table and create
 Quality screen and Power automate flow raise a notification to the
 supplier when item is marked as defective.
 
-<span id="_Toc176777012" class="anchor"></span>**Task 1 : Create
-inventory management app using Copilot.**
+### Task 1 : Create inventory management app using Copilot.**
 
 1.  Open a browser and go to https:\\\apps.powerapps.com and sign in
     with your Office 365 admin account.
@@ -399,7 +398,7 @@ defective email to the supplier.**
 > <img src="./media/image49.png" style="width:6.5in;height:2.83681in"
 > alt="A screenshot of a computer Description automatically generated" />
 
-**Conclusion**
+### Conclusion
 
 After completing this exercise, you will have:
 
@@ -413,14 +412,12 @@ After completing this exercise, you will have:
 This guarantees that you will have a fully functional **Inventory
 management App**, complete with all essential screens.
 
-<span id="_Toc176777017" class="anchor"></span>**Exercise 2: Create a
-flow to restock the inventory**
+## Exercise 2: Create a flow to restock the inventory
 
 In this exercise, you will create and test a approval request ot restock
 the inventory flow and integrate it with the Inventory management App.
 
-<span id="_Toc176777018" class="anchor"></span>**Task 1 : Create a Power
-platform flow to trigger restock email**
+### Task 1 : Create a Power platform flow to trigger restock email**
 
 1.  Switch back to Power automate tab and click on **My flows** -\>
     **New flow -\> Automated cloud flow.**
@@ -626,7 +623,7 @@ style="width:6.4875in;height:2.80764in" />
 
 <img src="./media/image84.png" style="width:6.5in;height:3.90347in" />
 
-**Conclusion**
+### Conclusion
 
 After completing this exercise, you will have:
 
