@@ -205,7 +205,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image15.png" style="width:5.32666in;height:4.6808in"
 alt="A screenshot of a computer Description automatically generated" />
 
-**Conclusion**:
+### Conclusion
 
 In this exercise, we have designed a conversational action and explained
 in the topic description about when this specific action needs to be
@@ -257,7 +257,7 @@ company will have to hold a valid Copilot license.
     Studio integrated app, it should appear in the user's list of
     plugins in their Microsoft Copilot UI.
 
-**Conclusion**
+### Conclusion
 
 In this exercise, we have learnt to publish the action. And, how it can
 be approved by the admin after which it will appear as a plugin in the
