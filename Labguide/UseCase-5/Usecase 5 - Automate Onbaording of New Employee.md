@@ -102,8 +102,7 @@ For this use case, all participants will need the following:
 In this exercise, you will create a Lists in SharePoint and which will
 have employee information.
 
-<span id="_Toc176777247" class="anchor"></span>**Task 1 : Create a site
-in Share point**
+### Task 1 : Create a site in Share point
 
 1.  Navigate to https:\\\office.com and sign in with your office 365
     tenants
@@ -148,8 +147,7 @@ style="width:6.49167in;height:3.81667in" />
 <img src="./media/image8.png" style="width:6.5in;height:2.27778in"
 alt="A screenshot of a computer Description automatically generated" />
 
-<span id="_Toc176777248" class="anchor"></span>**Task 2 : Create a
-Employees list in SharePoint site from CSV file**
+### Task 2 : Create a Employees list in SharePoint site from CSV file
 
 1.  Click on **Home- \>New -\> List**
 
@@ -243,8 +241,7 @@ alt="A screenshot of a computer Description automatically generated" />
 
 > <img src="./media/image23.png" style="width:6.1672in;height:6.5589in" />
 
-<span id="_Toc176777249" class="anchor"></span>**Task 3 : Create a HR
-list in SharePoint site from CSV file**
+### Task 3 : Create a HR list in SharePoint site from CSV file
 
 1.  Click on **Home- \>New -\> List**
 
@@ -293,15 +290,13 @@ After completing this exercise, you will have:
 
 1.  Lists in SharePoint with Employee information
 
-<span id="_Toc176777251" class="anchor"></span>**Exercise 2: Create
-Power apps for SharePoint Lists**
+## Exercise 2: Create Power apps for SharePoint Lists
 
 In this exercise, you will build your application to send an email to
 employee with official information and asking him to fill and upload
 documents.
 
-<span id="_Toc176777252" class="anchor"></span>**Task 1 : Customize
-Employee form with PowerApps for HRs to fill.**
+### Task 1 : Customize Employee form with PowerApps for HRs to fill.**
 
 1.  From your **Sharepint-\> Employee onboarding**, copy URL and save it
     Notepad.
@@ -503,8 +498,7 @@ style="width:6.49167in;height:3.93333in" />
 32. Go back to Sharepoint tab in a browser and you should the above
     employee record in the list.
 
-<span id="_Toc176777253" class="anchor"></span>**Task 2 : Create
-employee onboarding Canvas app for the employee**
+### Task 2 : Create employee onboarding Canvas app for the employee
 
 10. From your **Sharepint-\> Employee onboarding**, copy URL and save it
     Notepad.
@@ -744,8 +738,7 @@ style="width:6.49167in;height:2.98333in" />
 
 > <img src="./media/image96.png" style="width:6.5in;height:2.71319in" />
 
-<span id="_Toc176777254" class="anchor"></span>**Task 3 : Create Power
-Automate flow to send a form to the new employee**
+### Task 3 : Create Power Automate flow to send a form to the new employee
 
 1.  **Go back to SharePint tab and copy the URL.**
 
@@ -835,8 +828,7 @@ style="width:6.49167in;height:2.76667in" />
 > <img src="./media/image113.png" style="width:6.5in;height:2.22778in"
 > alt="A screenshot of a computer Description automatically generated" />
 
-<span id="_Toc176777255" class="anchor"></span>**Task 4 : Test the
-flow.**
+### Task 4 : Test the flow
 
 1.  Go back to PoweApps tab, select Hr form **.**
 
