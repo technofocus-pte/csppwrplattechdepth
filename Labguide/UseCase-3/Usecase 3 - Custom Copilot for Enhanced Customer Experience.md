@@ -234,6 +234,7 @@ style="width:6.26806in;height:2.98403in" />
 <img src="./e8b7c58ebb460968eb282d7e07fbe43a3dcd0ecd.png"
 style="width:6.26806in;height:3.14514in" />
 
+
 **Conclusion**
 
 After completing all exercise, you will have:
@@ -333,6 +334,7 @@ style="width:6.26806in;height:2.95764in" />
 <img src="./b164e1810c3e71ef548071334278a3b1451512aa.png"
 style="width:6.26806in;height:2.97292in" />
 
+
 **Conclusion**
 
 After completing all exercise, you will have:
@@ -395,6 +397,7 @@ style="width:6.26806in;height:2.93889in" />
 
 <img src="./51340a7ebee049105e3ab02c58b464d406e35902.png"
 style="width:6.26806in;height:2.85694in" />
+
 
 **Conclusion**
 
@@ -473,6 +476,7 @@ style="width:6.26806in;height:3.01111in" />
 <img src="./b7dfd23654846e4a0f8f335316003a3100934bdc.png"
 style="width:6.26806in;height:2.93125in" />
 
+
 **Conclusion**
 
 1.  Logged into Power Pages, created a website using a template, and
@@ -536,6 +540,7 @@ style="width:6.26806in;height:2.89861in" />
 
 <img src="./f97cf2523eceb8e14643178fbc3dd75635277b47.png"
 style="width:6.26806in;height:2.76458in" />
+
 
 # Final Conclusion
 
