@@ -97,7 +97,7 @@ For this use case, all participants will need the following:
 
 # Lab instructions
 
-# Exercise 1: Create Employees, HR and Manager list in Share point
+## Exercise 1: Create Employees, HR and Manager list in Share point
 
 In this exercise, you will create a Lists in SharePoint and which will
 have employee information.
