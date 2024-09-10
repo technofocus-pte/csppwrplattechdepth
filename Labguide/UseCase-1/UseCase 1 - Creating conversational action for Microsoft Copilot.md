@@ -86,8 +86,6 @@ These personas will participate in the following sequential scenarios:
 
 # Exercise 1: Create a Conversational action
 
-**Objective**:
-
 In this exercise, we will sign in for the Copilot Studio trial license,
 and then create a conversational action which will help to retrieve the
 list of holidays for the year 2024.
@@ -214,8 +212,6 @@ invoked. Based on this, the action will be invoked when someone needs
 information regarding the list of holidays for the year 2024.
 
 # Exercise 2: Publishing your conversational action to Microsoft Copilot
-
-**Objective:**
 
 The objective of this exercise is to publish the action that we created
 in the previous exercise.
