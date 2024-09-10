@@ -119,14 +119,14 @@ For this use case, all participants will need the following: 
 
 # **Lab Instructions**
 
-# Exercise1: Configure Copilot with Dynamics 365
+## Exercise 1: Configure Copilot with Dynamics 365
 
 In this exercise, you will set up Dynamics 365 for customer service by
 signing in, creating a new workstream, and configuring a chat channel.
 This process will enable you to integrate and manage customer
 interactions efficiently using Dynamics 365’s capabilities.
 
-## Task 1: Sign in to Dynamic 365
+### Task 1: Sign in to Dynamic 365
 
 1.  Open your preferred web browser and navigate to
     <https://www.microsoft.com/en-us/dynamics-365/products/customer-service>
@@ -174,7 +174,7 @@ style="width:6.26806in;height:2.98125in" />
 <img src="./media/image5.png"
 style="width:6.26806in;height:2.94931in" />
 
-## Task 2: Create a new Workstream
+### Task 2: Create a new Workstream
 
 1.  In the left navigation bar, click on **Workstream**, then click on
     **+ New Workstream** to create a new one.
@@ -197,7 +197,7 @@ style="width:6.26806in;height:2.77569in" />
 <img src="./media/image7.png"
 style="width:6.26806in;height:2.93125in" />
 
-## Task 3: Configure a new Channel
+### Task 3: Configure a new Channel
 
 1.  In the **Contoso Agent** workstream, click on **Set up chat**.
 
@@ -234,7 +234,7 @@ style="width:6.26806in;height:2.98403in" />
 <img src="./e8b7c58ebb460968eb282d7e07fbe43a3dcd0ecd.png"
 style="width:6.26806in;height:3.14514in" />
 
-## Conclusion
+**Conclusion**
 
 After completing all exercise, you will have:
 
@@ -249,14 +249,14 @@ After completing all exercise, you will have:
 This setup prepares Dynamics 365 for effective customer interaction
 management.
 
-# Exercise 2: Escalate Copilot and connect Omnichannel
+## Exercise 2: Escalate Copilot and connect Omnichannel
 
 In this exercise, you'll enhance the functionality of your Copilot by
 configuring escalation topics and establishing a connection with
 Dynamics 365. You'll also activate the Copilot channel to ensure
 seamless integration and communication with the customer engagement hub.
 
-## Task 1: Configure Escalate Topic
+### Task 1: Configure Escalate Topic
 
 1.  Navigate to **Copilot Studio** and select your **Contoso Electronics
     Services Copilot**.
@@ -297,7 +297,7 @@ style="width:6.26806in;height:2.97153in" />
 <img src="./media/image19.png"
 style="width:6.26806in;height:2.93611in" />
 
-## Task 2: Activate the Copilot Channel
+### Task 2: Activate the Copilot Channel
 
 1.  Navigate to **Copilot Studio** and open your **Contoso Electronics
     Services Copilot**.
@@ -317,7 +317,7 @@ style="width:6.26806in;height:2.98056in" />
 <img src="./media/image22.png"
 style="width:6.26806in;height:2.97708in" />
 
-## Task 3: Publish your Copilot
+### Task 3: Publish your Copilot
 
 1.  Navigate to Overview section and In Microsoft Copilot Studio, look
     for the **Publish** button on the right side of the screen.
@@ -333,7 +333,7 @@ style="width:6.26806in;height:2.95764in" />
 <img src="./b164e1810c3e71ef548071334278a3b1451512aa.png"
 style="width:6.26806in;height:2.97292in" />
 
-## Conclusion
+**Conclusion**
 
 After completing all exercise, you will have:
 
@@ -350,14 +350,14 @@ These steps enhance the Copilot's functionality and integration with
 Dynamics 365, ensuring effective escalation handling and seamless
 communication.
 
-# Exercise 3: Add and activate Copilot Bot in Dynamic 365
+## Exercise 3: Add and activate Copilot Bot in Dynamic 365
 
 In this exercise, you'll integrate your Copilot bot into Dynamics 365 by
 adding it to the Customer Service workspace. This process involves
 connecting the bot to the existing workstream and verifying its
 activation to ensure it is functioning correctly.
 
-## Task 1: Add Bot in Dynamic 365
+### Task 1: Add Bot in Dynamic 365
 
 1.  Click on **Customer Service workspace** to explore the apps.
 
@@ -385,7 +385,7 @@ style="width:6.26806in;height:2.94306in" />
 <img src="./media/image29.png"
 style="width:6.26806in;height:2.98403in" />
 
-## Task 2: Check Bot Connection
+### Task 2: Check Bot Connection
 
 1.  In the left navigation bar, click on **Bot** and check that the
     **Contoso Electronics Services** bot is active.
@@ -396,7 +396,7 @@ style="width:6.26806in;height:2.93889in" />
 <img src="./51340a7ebee049105e3ab02c58b464d406e35902.png"
 style="width:6.26806in;height:2.85694in" />
 
-## Conclusion
+**Conclusion**
 
 1.  Integrated the "Contoso Electronics Services" bot into the "Contoso
     Agent" workstream by connecting it within the Customer Service admin
@@ -409,14 +409,14 @@ This process ensures that your Copilot bot is effectively integrated and
 operational within Dynamics 365, ready to handle customer interactions
 through the configured workstream.
 
-# Exercise 4: Deploy Copilot on a Power Page Website
+## Exercise 4: Deploy Copilot on a Power Page Website
 
 In this exercise, you'll deploy your Copilot bot onto a Power Page
 website. This involves connecting the bot with Power Pages, adding the
 necessary code to the website, and previewing it to ensure everything is
 functioning as expected.
 
-## Task 1: Connect Bot with Power Pages
+### Task 1: Connect Bot with Power Pages
 
 1.  Visit
     <https://www.microsoft.com/en-us/power-platform/products/power-pages>
@@ -473,7 +473,7 @@ style="width:6.26806in;height:3.01111in" />
 <img src="./b7dfd23654846e4a0f8f335316003a3100934bdc.png"
 style="width:6.26806in;height:2.93125in" />
 
-## Conclusion
+**Conclusion**
 
 1.  Logged into Power Pages, created a website using a template, and
     integrated the Copilot bot by adding the widget code to the
@@ -487,7 +487,7 @@ This deployment ensures your Copilot bot is live and operational on the
 Power Page website, providing a seamless customer interaction
 experience.
 
-# Test Live Agent
+### Test Live Agent
 
 In this exercise, you'll test the live agent functionality by
 interacting with the Contoso Agent bot deployed on the Power Pages
