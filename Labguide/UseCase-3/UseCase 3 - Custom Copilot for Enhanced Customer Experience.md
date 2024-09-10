@@ -10,7 +10,7 @@ style="width:6.26042in;height:2.41667in" />
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Prerequisites     | To get the most out of this lab guide we recommend you have to develop copilot use case 2 (Build a copilot for your customer’s webpage), Microsoft dynamic 365 trial license, Copilot Studio, Power Pages trial license.                                                                                                                                                                                                                                                                                                                                                                                   |
 | Duration          | 30 mins                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Publication date  | September 2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Publication date  | September 2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 This document is provided “as-is”. Information and views expressed in
 this document, including URL and other Internet Web site references, may
@@ -24,72 +24,6 @@ this document for your internal reference purposes. 
 
 © 2024 Microsoft. All rights reserved.  
 
-# Table of Contents
-
-[Objective & Scenario [3](#objective-scenario)](#objective-scenario)
-
-[Objective [4](#objective)](#objective)
-
-[Solution Focus Area [4](#solution-focus-area)](#solution-focus-area)
-
-[Persona and Scenario [4](#persona-and-scenario)](#persona-and-scenario)
-
-[Pre-requisites [5](#pre-requisites)](#pre-requisites)
-
-[Lab Instructions [5](#lab-instructions)](#lab-instructions)
-
-[Exercise1: Configure Copilot with Dynamics 365
-[6](#exercise1-configure-copilot-with-dynamics-365)](#exercise1-configure-copilot-with-dynamics-365)
-
-[Task 1: Sign in to Dynamic 365
-[6](#task-1-sign-in-to-dynamic-365)](#task-1-sign-in-to-dynamic-365)
-
-[Task 2: Create a New Workstream
-[9](#task-2-create-a-new-workstream)](#task-2-create-a-new-workstream)
-
-[Task 3: Configure a New Channel
-[10](#task-3-configure-a-new-channel)](#task-3-configure-a-new-channel)
-
-[Conclusion [13](#conclusion)](#conclusion)
-
-[Exercise 2: Escalate Copilot and Connect Omnichannel
-[13](#exercise-2-escalate-copilot-and-connect-omnichannel)](#exercise-2-escalate-copilot-and-connect-omnichannel)
-
-[Task 1: Configure Escalate Topic
-[14](#task-1-configure-escalate-topic)](#task-1-configure-escalate-topic)
-
-[Task 2: Activate the Copilot Channel
-[16](#task-2-activate-the-copilot-channel)](#task-2-activate-the-copilot-channel)
-
-[Task 3: Publish Your Copilot [17](#_Toc1808354770)](#_Toc1808354770)
-
-[Conclusion [18](#conclusion-1)](#conclusion-1)
-
-[Exercise 3: Add and Activate Copilot Bot in Dynamic 365
-[18](#exercise-3-add-and-activate-copilot-bot-in-dynamic-365)](#exercise-3-add-and-activate-copilot-bot-in-dynamic-365)
-
-[Task 1: Add Bot in Dynamic 365
-[19](#task-1-add-bot-in-dynamic-365)](#task-1-add-bot-in-dynamic-365)
-
-[Task 2: Check Bot Connection
-[21](#task-2-check-bot-connection)](#task-2-check-bot-connection)
-
-[Conclusion [22](#conclusion-2)](#conclusion-2)
-
-[Exercise 4: Deploy Copilot on a Power Page Website
-[22](#exercise-4-deploy-copilot-on-a-power-page-website)](#exercise-4-deploy-copilot-on-a-power-page-website)
-
-[Task 1: Connect Bot with Power Pages
-[22](#task-1-connect-bot-with-power-pages)](#task-1-connect-bot-with-power-pages)
-
-[Conclusion [27](#conclusion-3)](#conclusion-3)
-
-[Test Live Agent [27](#test-live-agent)](#test-live-agent)
-
-[Final Conclusion [30](#final-conclusion)](#final-conclusion)
-
-**  
-**
 
 # **Objective & Scenario**
 
