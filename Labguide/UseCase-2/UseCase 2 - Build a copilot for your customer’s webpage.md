@@ -6,7 +6,7 @@
 
 | Description       | Develop a Virtual Assistant copilot for Contoso Electronics' website to enhance customer support by simplifying the laptop discovery process, providing tailored recommendations, and offering side-by-side device comparisons. The copilot will also inform customers about current deals, accessories, and protection plans. Additionally, it will assist with appointment scheduling for further consultation with sales associates. To streamline the post-purchase process, the copilot will provide information on Contoso’s return policies, check return eligibility, and enable customers to submit refund requests directly within the chat interface for a seamless user experience. |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prerequisites     | To get the most out of this lab guide we recommend you have admin access with Power Apps, Power Automate Flow, Copilot Studio, Dynamic 365 and Return policy lab file.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Prerequisites     | To get the most out of this lab guide we recommend you have admin access with Power Apps, Power Automate Flow, Copilot Studio, Dynamics 365 Customer Service and Return policy lab file.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Duration          | 2 hours                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Publication date  | September 2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
@@ -136,13 +136,13 @@ For this use case, all participants will need the following: 
 
 - Microsoft Copilot Studio Free Trial License
 
-- Microsoft Dynamic 365 Free Trial License
+- Microsoft Dynamics 365 Customer Service Free Trial License
 
 - Contoso Refund Policy File.
 
 # **Lab Instructions**
 
-## Exercise 1: Setting up and configuring Dynamic 365 Customer Service
+## Exercise 1: Setting up and configuring Dynamics 365 Customer Service
 
 In this exercise, you'll set up and configure Dynamics 365 Customer
 Service by signing up for a trial, managing users, and configuring
@@ -198,14 +198,14 @@ style="width:6.26806in;height:4.19167in" />
 
 10. This workspace serves as the central hub where you can access
     various customer service tools and functionalities within Dynamics
-    365.
+    365 Customer Service.
 
 11. Within the workspace, you'll find several applications that are
     crucial for managing customer service operations. Click on
     **Customer Service workspace** to open and explore these apps.
 
 12. This step allows you to familiarize yourself with the tools
-    available in the Dynamics 365 environment.
+    available in the Dynamics 365 Customer Service environment.
 
 <img src="./media/image6.png"
 style="width:6.26806in;height:2.98125in" />
@@ -417,7 +417,7 @@ alt="A screenshot of a computer Description automatically generated" />
 
 10. Click the **Save** button located at the bottom right to apply the
     changes. This step ensures that your configurations are active and
-    ready for use in your Dynamics 365 environment.
+    ready for use in your Dynamics 365 Customer Service environment.
 
 <img src="./media/image28.png" style="width:6.26806in;height:4.30208in"
 alt="A screenshot of a computer Description automatically generated" />
