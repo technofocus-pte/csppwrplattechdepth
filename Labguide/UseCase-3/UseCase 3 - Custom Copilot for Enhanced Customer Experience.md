@@ -6,7 +6,7 @@ style="width:6.26042in;height:2.41667in" />
 
 | Description       | This scenario extends the functionality of the Virtual Assistant copilot for Contoso Electronics, initially developed to assist customers with product discovery and post-purchase activities like return eligibility and refund requests. The enhancement introduces automated case escalation, allowing the copilot to seamlessly transfer conversations to live agents when it cannot resolve a query or when the customer requests human assistance. This ensures a more personalized and efficient customer service experience by blending automated responses with human support for complex issues. |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prerequisites     | To get the most out of this lab guide we recommend you have to develop copilot use case 2 (Build a copilot for your customer’s webpage), Microsoft dynamic 365 trial license, Copilot Studio, Power Pages trial license.                                                                                                                                                                                                                                                                                                                                                                                   |
+| Prerequisites     | To get the most out of this lab guide we recommend you have to develop copilot use case 2 (Build a copilot for your customer’s webpage), Microsoft Dynamics 365 Customer Service Trial license, Copilot Studio, Power Pages Trial license.                                                                                                                                                                                                                                                                                                                                                                                   |
 | Duration          | 30 mins                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Publication date  | September 2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
@@ -84,7 +84,7 @@ These personas will participate in the following sequential scenarios: 
 
 - Mark Brown provides David Flores with an overview of the selected
   tools and processes. This includes enhancing the virtual agent with
-  the live agent feature using Copilot, Dynamics 365, and implementing
+  the live agent feature using Copilot, Dynamics 365 Customer Service, and implementing
   the bot on the Contoso Electronics webpage.
 
 - David Flores creates the virtual assistant, ensuring it meets all the
@@ -113,7 +113,7 @@ For this use case, all participants will need the following: 
 
 - Microsoft Copilot Studio Free Trial License
 
-- Microsoft Dynamic 365 Free Trial License
+- Microsoft Dynamics 365 Customer Service Free Trial License
 
 - Microsoft Power Pages
 
@@ -122,7 +122,7 @@ For this use case, all participants will need the following: 
 
 # Lab Instructions
 
-## Exercise 1: Configure Copilot with Dynamics 365
+## Exercise 1: Configure Copilot with Dynamics 365 Customer Service
 
 In this exercise, you will set up Dynamics 365 Customer Service by
 signing in, creating a new workstream, and configuring a chat channel.
@@ -249,7 +249,7 @@ After completing this exercise, you have gained the following knowledge:
 3.  Set up "Contoso Live Agent" with specific features and obtained the
     widget code for integration.
 
-This setup prepares Dynamics 365 for effective customer interaction
+This setup prepares Dynamics 365 Customer Service for effective customer interaction
 management.
 
 ## Exercise 2: Escalate Copilot and connect Omnichannel
@@ -350,17 +350,17 @@ After completing this exercise, you have gained the following knowledge:
     available for use.
 
 These steps enhance the Copilot's functionality and integration with
-Dynamics 365, ensuring effective escalation handling and seamless
+Dynamics 365 Customer Service, ensuring effective escalation handling and seamless
 communication.
 
-## Exercise 3: Add and activate Copilot Bot in Dynamics 365
+## Exercise 3: Add and activate Copilot Bot in Dynamics 365 Customer Service
 
 In this exercise, you'll integrate your Copilot bot into Dynamics 365 Customer Service by
-adding it to the Customer Service workspace. This process involves
+adding it to the Dynamics 365 Customer Service workspace. This process involves
 connecting the bot to the existing workstream and verifying its
 activation to ensure it is functioning correctly.
 
-### Task 1: Add Bot in Dynamics 365
+### Task 1: Add Bot in Dynamics 365 Customer Service
 
 1.  Click on **Customer Service workspace** to explore the apps.
 
@@ -507,7 +507,7 @@ Top of Form
 
 Bottom of Form
 
-1.  Go to Dynamics 365 and select **Customer Service workspace** and
+1.  Go to Dynamics 365 Customer Service and select **Customer Service workspace** and
     then select **Customer Service workspace** App to open and explore
     the apps.
 
@@ -548,15 +548,15 @@ alt="A screenshot of a chat Description automatically generated" />
 ## Final Conclusion
 
 In conclusion, the comprehensive steps undertaken in configuring and
-deploying Dynamics 365 and the Copilot have led to a highly efficient
+deploying Dynamics 365 Customer Service and the Copilot have led to a highly efficient
 and integrated customer service solution.
 
-1.  **Configured Dynamics 365:** Successfully signed in, created a new
+1.  **Configured Dynamics 365 Customer Service:** Successfully signed in, created a new
     workstream, and configured a chat channel to manage customer
     interactions efficiently.
 
 2.  **Enhanced Copilot Functionality:** Configured escalation topics
-    connected the Copilot with Dynamics 365 and activated the Copilot
+    connected the Copilot with Dynamics 365 Customer Service and activated the Copilot
     channel to streamline customer service operations.
 
 3.  **Integrated Copilot Bot:** Added and verified the Copilot bot
