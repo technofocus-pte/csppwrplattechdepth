@@ -2,9 +2,7 @@
 style="width:6.26042in;height:2.41667in" />  
 # Level-up CSP Technical Training – Power Platform Facilitator Guide
 
-## **Custom Copilot for Enhanced Customer Experience**
-
-**Lab Guide for Retail Scenario**
+## Custom Copilot for Enhanced Customer Experience
 
 | Description       | This scenario extends the functionality of the Virtual Assistant copilot for Contoso Electronics, initially developed to assist customers with product discovery and post-purchase activities like return eligibility and refund requests. The enhancement introduces automated case escalation, allowing the copilot to seamlessly transfer conversations to live agents when it cannot resolve a query or when the customer requests human assistance. This ensures a more personalized and efficient customer service experience by blending automated responses with human support for complex issues. |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,7 +23,7 @@ this document for your internal reference purposes. 
 © 2024 Microsoft. All rights reserved.  
 
 
-# **Objective & Scenario**
+# **Objective and Scenario**
 
 ## Objective
 
@@ -38,7 +36,7 @@ In this use case, the goal is to enhance the copilot by introducing
 automated case escalation to live agents when the copilot cannot resolve
 a customer’s issue or when the customer requests human support.
 
-## Solution Focus Area
+## Solution focus area
 
 In **Use Case 2**, the copilot was created and published on Contoso
 Electronics' website to assist customers with product discovery and
@@ -58,7 +56,7 @@ The enhancement will focus on:
     assistance at any point during their interaction with the copilot,
     ensuring they can access human support when needed.
 
-## Persona and Scenario
+## Personas and Scenario
 
 - **Remy Morris** - Digital Solutions Architect 
 
@@ -122,19 +120,16 @@ For this use case, all participants will need the following: 
 - Contoso Electronics Bot Use Case 2 (Build a copilot for your
   customer’s webpage)
 
-**  
-**
+# Lab Instructions
 
-# **Lab Instructions**
+## Exercise 1: Configure Copilot with Dynamics 365
 
-# Exercise1: Configure Copilot with Dynamics 365
-
-In this exercise, you will set up Dynamics 365 for customer service by
+In this exercise, you will set up Dynamics 365 Customer Service by
 signing in, creating a new workstream, and configuring a chat channel.
 This process will enable you to integrate and manage customer
-interactions efficiently using Dynamics 365’s capabilities.
+interactions efficiently using capabilities of Dynamics 365 Customer Service.
 
-## Task 1: Sign in to Dynamic 365
+### Task 1: Sign in to Dynamics 365 Customer Service
 
 1.  Open your preferred web browser and navigate to
     <https://www.microsoft.com/en-us/dynamics-365/products/customer-service>
@@ -182,7 +177,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image6.png" style="width:6.26806in;height:2.94931in"
 alt="A screenshot of a computer Description automatically generated" />
 
-## Task 2: Create a New Workstream
+### Task 2: Create a new Workstream
 
 1.  In the left navigation bar, click on **Workstream**, then click on
     **+ New Workstream** to create a new one.
@@ -205,7 +200,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image8.png" style="width:6.26806in;height:2.93125in"
 alt="A screenshot of a computer Description automatically generated" />
 
-## Task 3: Configure a New Channel
+### Task 3: Configure a new Channel
 
 1.  In the **Contoso Agent** workstream, click on **Set up chat**.
 
@@ -242,7 +237,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image15.png"
 style="width:6.26806in;height:3.14514in" />
 
-## Conclusion
+### Conclusion
 
 After completing this exercise, you have gained the following knowledge:
 
@@ -257,14 +252,14 @@ After completing this exercise, you have gained the following knowledge:
 This setup prepares Dynamics 365 for effective customer interaction
 management.
 
-# Exercise 2: Escalate Copilot and Connect Omnichannel
+## Exercise 2: Escalate Copilot and connect Omnichannel
 
 In this exercise, you'll enhance the functionality of your Copilot by
 configuring escalation topics and establishing a connection with
-Dynamics 365. You'll also activate the Copilot channel to ensure
+Dynamics 365 Customer Service. You'll also activate the Copilot channel to ensure
 seamless integration and communication with the customer engagement hub.
 
-## Task 1: Configure Escalate Topic
+### Task 1: Configure Escalate Topic
 
 1.  Navigate to **Copilot Studio** and select your **Contoso Electronics
     Services Copilot**.
@@ -305,7 +300,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image20.png" style="width:6.26806in;height:2.93611in"
 alt="A screenshot of a computer Description automatically generated" />
 
-## Task 2: Activate the Copilot Channel
+### Task 2: Activate the Copilot Channel
 
 1.  Navigate to **Copilot Studio** and open your **Contoso Electronics
     Services Copilot**.
@@ -325,7 +320,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image23.png" style="width:6.26806in;height:2.97708in"
 alt="A screenshot of a computer Description automatically generated" />
 
-## Task 3: Publish Your Copilot
+### Task 3: Publish your Copilot
 
 1.  Navigate to Overview section and In Microsoft Copilot Studio, look
     for the **Publish** button on the right side of the screen.
@@ -341,7 +336,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image25.png" style="width:6.26806in;height:2.97292in"
 alt="A screenshot of a computer Description automatically generated" />
 
-## Conclusion
+### Conclusion
 
 After completing this exercise, you have gained the following knowledge:
 
@@ -358,14 +353,14 @@ These steps enhance the Copilot's functionality and integration with
 Dynamics 365, ensuring effective escalation handling and seamless
 communication.
 
-# Exercise 3: Add and Activate Copilot Bot in Dynamic 365
+## Exercise 3: Add and activate Copilot Bot in Dynamics 365
 
-In this exercise, you'll integrate your Copilot bot into Dynamics 365 by
+In this exercise, you'll integrate your Copilot bot into Dynamics 365 Customer Service by
 adding it to the Customer Service workspace. This process involves
 connecting the bot to the existing workstream and verifying its
 activation to ensure it is functioning correctly.
 
-## Task 1: Add Bot in Dynamic 365
+### Task 1: Add Bot in Dynamics 365
 
 1.  Click on **Customer Service workspace** to explore the apps.
 
@@ -394,7 +389,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image30.png" style="width:6.26806in;height:2.98403in"
 alt="A screenshot of a computer Description automatically generated" />
 
-## Task 2: Check Bot Connection
+### Task 2: Check Bot Connection
 
 1.  In the left navigation bar, click on **Bot** and check that the
     **Contoso Electronics Services** bot is active.
@@ -405,7 +400,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image32.png" style="width:6.26806in;height:2.85694in"
 alt="A screenshot of a computer Description automatically generated" />
 
-## Conclusion
+### Conclusion
 
 After completing this exercise, you have gained the following knowledge:
 
@@ -414,20 +409,20 @@ After completing this exercise, you have gained the following knowledge:
     center.
 
 2.  Verified that the bot is active and functioning correctly in the Bot
-    section of the Dynamics 365 interface.
+    section of the Dynamics 365 Customer Service interface.
 
 This process ensures that your Copilot bot is effectively integrated and
-operational within Dynamics 365, ready to handle customer interactions
+operational within Dynamics 365 Customer Service, ready to handle customer interactions
 through the configured workstream.
 
-# Exercise 4: Deploy Copilot on a Power Page Website
+## Exercise 4: Deploy Copilot on a Power Page Website
 
 In this exercise, you'll deploy your Copilot bot onto a Power Page
 website. This involves connecting the bot with Power Pages, adding the
 necessary code to the website, and previewing it to ensure everything is
 functioning as expected.
 
-## Task 1: Connect Bot with Power Pages
+### Task 1: Connect Bot with Power Pages
 
 1.  Visit
     <https://www.microsoft.com/en-us/power-platform/products/power-pages>
@@ -484,7 +479,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image42.png" style="width:6.26806in;height:2.93125in"
 alt="A screenshot of a computer Description automatically generated" />
 
-## Conclusion
+### Conclusion
 
 After completing this exercise, you have gained the following knowledge:
 
@@ -500,7 +495,7 @@ This deployment ensures your Copilot bot is live and operational on the
 Power Page website, providing a seamless customer interaction
 experience.
 
-# Test Live Agent
+## Test Live Agent
 
 In this exercise, you'll test the live agent functionality by
 interacting with the Contoso Agent bot deployed on the Power Pages
@@ -550,7 +545,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image48.png" style="width:6.26806in;height:2.76458in"
 alt="A screenshot of a chat Description automatically generated" />
 
-# Final Conclusion
+## Final Conclusion
 
 In conclusion, the comprehensive steps undertaken in configuring and
 deploying Dynamics 365 and the Copilot have led to a highly efficient
