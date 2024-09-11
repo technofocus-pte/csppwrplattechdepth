@@ -315,7 +315,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image22.png" style="width:6.26806in;height:2.98056in"
 alt="A screenshot of a computer Description automatically generated" />
 
-4.  Click **Connect** to create a connection with Dynamics 365.
+4.  Click **Connect** to create a connection with Dynamics 365 Customer Service.
 
 <img src="./media/image23.png" style="width:6.26806in;height:2.97708in"
 alt="A screenshot of a computer Description automatically generated" />
