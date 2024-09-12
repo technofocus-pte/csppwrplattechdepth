@@ -2623,7 +2623,7 @@ style="width:6.26806in;height:2.96042in" />
 
 <!-- -->
 
-    a.  What are some deals on student laptops right now?
+    1.  What are some deals on student laptops right now?
 
 <img src="./media/image165.png"
 style="width:6.26806in;height:2.80208in" />
@@ -2631,7 +2631,7 @@ style="width:6.26806in;height:2.80208in" />
 <img src="./media/image166.png"
 style="width:6.26806in;height:2.96875in" />
 
-    b.  Tell me more about Surface Laptop Go 3. What are the specs & cost?
+    2.  Tell me more about Surface Laptop Go 3. What are the specs & cost?
 
 <img src="./media/image167.png"
 style="width:6.26806in;height:2.96389in" />
@@ -2639,7 +2639,7 @@ style="width:6.26806in;height:2.96389in" />
 <img src="./media/image168.png"
 style="width:6.26806in;height:2.95208in" />
 
-    c.  Compare laptop surface laptop pro 3 and surface laptop studio 2.
+    3.  Compare laptop surface laptop pro 3 and surface laptop studio 2.
 
 <img src="./media/image169.png"
 style="width:6.26806in;height:2.97917in" />
@@ -2647,7 +2647,7 @@ style="width:6.26806in;height:2.97917in" />
 <img src="./media/image170.png"
 style="width:6.26806in;height:2.94792in" />
 
-    d.  Book Appointment for further assistance
+    4.  Book Appointment for further assistance
 
 <img src="./media/image230.png"
 style="width:6.26806in;height:2.97361in" />
@@ -2655,7 +2655,7 @@ style="width:6.26806in;height:2.97361in" />
 <img src="./media/image231.png"
 style="width:6.26806in;height:2.96736in" />
 
-    e.  Ensure that the details entered in the Appointment Booking are
+    5.  Ensure that the details entered in the Appointment Booking are
     accurately reflected in the "Book Appointments" table in Power Apps.
 
 <img src="./media/image232.png"
@@ -2663,7 +2663,7 @@ style="width:6.26806in;height:2.96042in" />
 
 3.  Enter the following trigger phrases to test the topics you created:
 
-    a.  I want to know about the Contoso refund policy.
+    1.  I want to know about the Contoso refund policy.
 
 <img src="./media/image171.png"
 style="width:6.26806in;height:2.95208in" />
@@ -2671,7 +2671,7 @@ style="width:6.26806in;height:2.95208in" />
 <img src="./media/image172.png"
 style="width:6.26806in;height:2.95556in" />
 
-    b.  I buy laptop 10 days ago, is I eligible to return laptop.
+    2.  I buy laptop 10 days ago, is I eligible to return laptop.
 
 <img src="./media/image173.png"
 style="width:6.26806in;height:2.93125in" />
@@ -2679,7 +2679,7 @@ style="width:6.26806in;height:2.93125in" />
 <img src="./media/image233.png"
 style="width:6.26806in;height:2.96389in" />
 
-    c.  I buy laptop 3 day ago; I have to submit refund request.
+    3.  I buy laptop 3 day ago; I have to submit refund request.
 
 <img src="./media/image234.png"
 style="width:6.26806in;height:2.94236in" />
@@ -2687,7 +2687,7 @@ style="width:6.26806in;height:2.94236in" />
 <img src="./media/image235.png"
 style="width:6.26806in;height:2.82222in" />
 
-    d.  Ensure that the details entered in the Appointment Booking are
+    4.  Ensure that the details entered in the Appointment Booking are
     accurately reflected in the "Refund Requests" table in Power Apps.
 
 <img src="./media/image236.png"
