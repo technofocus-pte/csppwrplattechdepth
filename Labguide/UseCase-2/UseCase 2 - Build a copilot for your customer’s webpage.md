@@ -1276,8 +1276,8 @@ style="width:6.26806in;height:2.975in" />
 5.  In the canvas, you'll see a **Trigger node**. In the **Describe**
     section, enter the following phrases to trigger this topic:
 
-> **compare laptop, compare product, laptop comparison, compare between
-> laptops**
+**compare laptop, compare product, laptop comparison, compare between
+laptops**
 
 <img src="./media/image109.png"
 style="width:6.26806in;height:2.9625in" />
@@ -1317,8 +1317,8 @@ style="width:6.26806in;height:2.93264in" />
 14. Click on the **Save** button to save your configurations for the
     "Product Information" topic.
 
-> <img src="./media/image113.png"
-> style="width:6.26806in;height:2.97708in" />
+<img src="./media/image113.png"
+style="width:6.26806in;height:2.97708in" />
 
 ### Task 4: Create a Topic "Book Appointments"
 
