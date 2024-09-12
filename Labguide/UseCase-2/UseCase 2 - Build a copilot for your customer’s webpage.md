@@ -2631,7 +2631,7 @@ style="width:6.26806in;height:2.80208in" />
 <img src="./media/image166.png"
 style="width:6.26806in;height:2.96875in" />
 
-    2.  Tell me more about Surface Laptop Go 3. What are the specs & cost?
+2.  Tell me more about Surface Laptop Go 3. What are the specs & cost?
 
 <img src="./media/image167.png"
 style="width:6.26806in;height:2.96389in" />
@@ -2639,7 +2639,7 @@ style="width:6.26806in;height:2.96389in" />
 <img src="./media/image168.png"
 style="width:6.26806in;height:2.95208in" />
 
-    3.  Compare laptop surface laptop pro 3 and surface laptop studio 2.
+3.  Compare laptop surface laptop pro 3 and surface laptop studio 2.
 
 <img src="./media/image169.png"
 style="width:6.26806in;height:2.97917in" />
