@@ -351,8 +351,8 @@ alt="A screenshot of a computer Description automatically generated" />
     to the terms, then click **Update**. This step is crucial to ensure
     all components work together seamlessly.
 
-> <img src="./media/image21.png" style="width:4.81667in;height:5.03333in"
-> alt="A screenshot of a computer Description automatically generated" />
+<img src="./media/image21.png" style="width:4.81667in;height:5.03333in"
+alt="A screenshot of a computer Description automatically generated" />
 
 ### Task 4: Configure Search Settings in the Power Platform Admin Center
 
@@ -496,8 +496,8 @@ style="width:6.26806in;height:2.93472in" />
 
 2.  Pick an account window will pop up, select your account.
 
-> <img src="./media/image31.png"
-> style="width:6.26806in;height:2.83958in" />
+<img src="./media/image31.png"
+style="width:6.26806in;height:2.83958in" />
 
 3.  If prompted to sign in, enter your **email address** and
     select **Sign in**.
@@ -505,8 +505,8 @@ style="width:6.26806in;height:2.93472in" />
 4.  In the **Welcome to Copilot Studio** popup, leave the country/region
     as the default value and select get started.
 
-> <img src="./media/image32.png"
-> style="width:6.26806in;height:2.96389in" />
+<img src="./media/image32.png"
+style="width:6.26806in;height:2.96389in" />
 
 5.  At the Welcome to Copilot Studio! popup, select Skip.
 
@@ -584,8 +584,8 @@ style="width:6.26806in;height:2.98056in" />
 
 10. Click on **Create** to finalize your new solution.
 
-> <img src="./media/image38.png"
-> style="width:6.26806in;height:3.00972in" />
+<img src="./media/image38.png"
+style="width:6.26806in;height:3.00972in" />
 
 11. After creating your solution, click on **Back** in the left corner
     of the screen. This takes you back to the main Solutions page, where
@@ -640,14 +640,14 @@ style="width:6.26806in;height:2.98056in" />
     1.  Click on the down arrow next to the first column, and then
         select the edit column button.
 
-> <img src="./media/image45.png"
-> style="width:5.88362in;height:2.78341in" />
+<img src="./media/image45.png"
+style="width:5.88362in;height:2.78341in" />
 
 2.  Change the display name to **Appointment Type** and click on
     **Save**.
 
-> <img src="./media/image46.png"
-> style="width:5.93727in;height:2.82326in" />
+<img src="./media/image46.png"
+style="width:5.93727in;height:2.82326in" />
 
 5.  **Full Name Column:**
 
@@ -670,37 +670,37 @@ style="width:6.26806in;height:2.96875in" />
     1.  Click on the **+ (add column)** button, change the display name
         to **Phone Number**, and save.
 
-> <img src="./media/image49.png" style="width:6.036in;height:2.85416in" />
+<img src="./media/image49.png" style="width:6.036in;height:2.85416in" />
 
 8.  **Date Column:**
 
     1.  Click on the **+ (add column)** button, change the display name
         to **Date**, and save.
 
-> <img src="./media/image50.png"
-> style="width:6.09308in;height:2.8825in" />
+<img src="./media/image50.png"
+style="width:6.09308in;height:2.8825in" />
 
 9.  **Time Column:**
 
     1.  Click on the **+ (add column)** button, change the display name
         to **Time**, and save.
 
-> <img src="./media/image51.png"
-> style="width:6.00708in;height:2.86378in" />
+<img src="./media/image51.png"
+style="width:6.00708in;height:2.86378in" />
 
 10. After adding all the necessary columns, click on the **Create**
     button to finalize and create the "Book Appointments" table.
 
-> <img src="./media/image52.png"
-> style="width:6.26806in;height:2.99514in" />
+<img src="./media/image52.png"
+style="width:6.26806in;height:2.99514in" />
 
 ### Task 4: Create the "Refund Requests" Table
 
 1.  In the Power Apps Maker portal, select **Tables** from the left-hand
     navigation pane.
 
-> <img src="./media/image42.png"
-> style="width:6.26806in;height:2.96736in" />
+<img src="./media/image42.png"
+style="width:6.26806in;height:2.96736in" />
 
 2.  Click on **+ New table**, and then choose **Add columns and data**
     to start creating your new table.
@@ -720,61 +720,61 @@ style="width:6.26806in;height:2.98333in" />
     1.  Click on the down arrow next to the first column, and then
         select the edit column button.
 
-> <img src="./media/image54.png"
-> style="width:6.13775in;height:2.91519in" />
+<img src="./media/image54.png"
+style="width:6.13775in;height:2.91519in" />
 
 2.  Change the display name to **Full Name** and click on **Save**.
 
-> <img src="./media/image55.png"
-> style="width:6.12093in;height:2.90042in" />
+<img src="./media/image55.png"
+style="width:6.12093in;height:2.90042in" />
 
 5.  **Date of Purchase Column:**
 
     1.  Click on the **+ (add column)** button, change the display name
         to **Date of Purchase**, and save.
 
-> <img src="./media/image56.png"
-> style="width:6.10809in;height:2.8896in" />
+<img src="./media/image56.png"
+style="width:6.10809in;height:2.8896in" />
 
 6.  **Description Column:**
 
     1.  Click on the **+ (add column)** button, change the display name
         to **Description**, and save.
 
-> <img src="./media/image57.png"
-> style="width:6.14047in;height:2.9022in" />
+<img src="./media/image57.png"
+style="width:6.14047in;height:2.9022in" />
 
 7.  **Email Column:**
 
     1.  Click on the **+ (add column)** button, change the display name
         to **Email**, and save.
 
-> <img src="./media/image58.png"
-> style="width:6.17494in;height:2.92465in" />
+<img src="./media/image58.png"
+style="width:6.17494in;height:2.92465in" />
 
 8.  **Order Number Column:**
 
     1.  Click on the **+ (add column)** button, change the display name
         to **Order Number**, and save.
 
-> <img src="./media/image59.png"
-> style="width:6.16292in;height:2.92373in" />
+<img src="./media/image59.png"
+style="width:6.16292in;height:2.92373in" />
 
 9.  **Order Type Column:**
 
     1.  Click on the **+ (add column)** button, change the display name
         to **Order Type**, and save.
 
-> <img src="./media/image60.png"
-> style="width:6.14507in;height:2.91663in" />
+<img src="./media/image60.png"
+style="width:6.14507in;height:2.91663in" />
 
 10. **Phone Number Column:**
 
     1.  Click on the **+ (add column)** button, change the display name
         to **Phone Number**, and save.
 
-> <img src="./media/image61.png"
-> style="width:6.09063in;height:2.87662in" />
+<img src="./media/image61.png"
+style="width:6.09063in;height:2.87662in" />
 
 11. **Preferred Contact Method Column:**
 
@@ -789,8 +789,8 @@ style="width:6.1216in;height:2.87565in" />
     1.  Click on the **+ (add column)** button, change the display name
         to **Product**, and save.
 
-> <img src="./media/image63.png"
-> style="width:6.12796in;height:2.88203in" />
+<img src="./media/image63.png"
+style="width:6.12796in;height:2.88203in" />
 
 13. **Receipt Number Column:**
 
@@ -803,8 +803,8 @@ style="width:6.16824in;height:2.93309in" />
 14. After adding all the necessary columns, click on the **Create**
     button to finalize and create the "Refund Requests" table.
 
-> <img src="./media/image65.png"
-> style="width:6.26806in;height:3.00833in" />
+<img src="./media/image65.png"
+style="width:6.26806in;height:3.00833in" />
 
 ### Conclusion
 
@@ -852,8 +852,8 @@ you through the process of setting up your copilot by allowing you to
 name it, choose the language, and optionally enable generative answers
 to enhance conversations. ￼
 
-> <img src="./media/image67.png"
-> style="width:6.26806in;height:2.99028in" />
+<img src="./media/image67.png"
+style="width:6.26806in;height:2.99028in" />
 
 4.  When prompted, select **Skip to configure** to proceed without
     additional configuration options at this stage.
@@ -1001,8 +1001,8 @@ style="width:6.26806in;height:2.95833in" />
 4.  Toggle the switch under the **Enabled** column to **Off** to disable
     this topic.
 
-> <img src="./media/image82.png"
-> style="width:6.26806in;height:2.99306in" />
+<img src="./media/image82.png"
+style="width:6.26806in;height:2.99306in" />
 
 ### Task 5: Create Knowledge Base for Copilot
 
@@ -1857,8 +1857,8 @@ style="width:6.26806in;height:2.98194in" />
 
     4.  I’m done.
 
-> <img src="./media/image146.png"
-> style="width:6.26806in;height:2.98194in" />
+<img src="./media/image146.png"
+style="width:6.26806in;height:2.98194in" />
 
 17. Below **Save the user's response** a new variable creates, click on
     the variable name variable properties window will open, where you
@@ -1959,8 +1959,8 @@ style="width:6.26806in;height:2.96736in" />
 
 12. Click on the **Save** button to save the configuration.
 
-> <img src="./media/image156.png"
-> style="width:6.26806in;height:2.96528in" />
+<img src="./media/image156.png"
+style="width:6.26806in;height:2.96528in" />
 
 ### Task 8: Use Generative Answers in the System Fallback Topic
 
@@ -2064,19 +2064,19 @@ style="width:6.26806in;height:2.96875in" />
 
 2.  Tell me more about Surface Laptop Go 3. What are the specs & cost?
 
-> <img src="./media/image167.png"
-> style="width:6.26806in;height:2.96389in" />
->
-> <img src="./media/image168.png"
-> style="width:6.26806in;height:2.95208in" />
+<img src="./media/image167.png"
+style="width:6.26806in;height:2.96389in" />
+
+<img src="./media/image168.png"
+style="width:6.26806in;height:2.95208in" />
 
 3.  Compare laptop surface laptop pro 3 and surface laptop studio 2.
 
-> <img src="./media/image169.png"
-> style="width:6.26806in;height:2.97917in" />
->
-> <img src="./media/image170.png"
-> style="width:6.26806in;height:2.94792in" />
+<img src="./media/image169.png"
+style="width:6.26806in;height:2.97917in" />
+
+<img src="./media/image170.png"
+style="width:6.26806in;height:2.94792in" />
 
 6.  Enter the following trigger phrases to test the topics you created:
 
@@ -2180,14 +2180,14 @@ style="width:6.26806in;height:2.97292in" />
 
     6.  Enter **Time** in input field for Appointment Time
 
-> <img src="./media/image180.png"
-> style="width:6.26806in;height:2.80069in" />
->
-> <img src="./media/image181.png"
-> style="width:6.26806in;height:2.76042in" />
->
-> <img src="./media/image182.png"
-> style="width:6.26806in;height:2.96875in" />
+<img src="./media/image180.png"
+style="width:6.26806in;height:2.80069in" />
+
+<img src="./media/image181.png"
+style="width:6.26806in;height:2.76042in" />
+
+<img src="./media/image182.png"
+style="width:6.26806in;height:2.96875in" />
 
 8.  Click on the **+ icon** between the two steps in the flow and select
     **Add an action**.
@@ -2233,16 +2233,16 @@ style="width:6.26806in;height:2.99792in" />
 
     6.  **Time** Dynamic Input → **Appointment Time** Parameter
 
-> <img src="./media/image188.png"
-> style="width:6.26806in;height:2.95903in" />
+<img src="./media/image188.png"
+style="width:6.26806in;height:2.95903in" />
 
 <img src="./media/image189.png"
 style="width:6.26806in;height:2.68403in" />
 
 15. Select **Respond to Copilot** action.
 
-> <img src="./media/image190.png"
-> style="width:6.26806in;height:2.9625in" />
+<img src="./media/image190.png"
+style="width:6.26806in;height:2.9625in" />
 
 16. Click on **Settings**.
 
@@ -2255,8 +2255,8 @@ style="width:6.26806in;height:2.95417in" />
 
 19. Then, click on **Publish**.
 
-> <img src="./media/image192.png"
-> style="width:6.26806in;height:2.95208in" />
+<img src="./media/image192.png"
+style="width:6.26806in;height:2.95208in" />
 
 20. Once the flow is published, close the Power Automate tab to return
     to Copilot Studio.
@@ -2328,8 +2328,8 @@ style="width:6.26806in;height:2.94583in" />
     6.  **Time** Input: Click on the input field, then select
         **appointmenttime** from the custom variables.
 
-> <img src="./media/image200.png"
-> style="width:6.26806in;height:2.97292in" />
+<img src="./media/image200.png"
+style="width:6.26806in;height:2.97292in" />
 
 10. After mapping all the variables, click on the **Save** button to
     save the topic configuration.
@@ -2394,13 +2394,13 @@ style="width:6.26806in;height:2.74514in" />
 
     10. Enter **Contact Method** in Input for Preferred Contact Method
 
-> <img src="./media/image207.png"
-> style="width:6.26806in;height:2.73611in" />
->
-> <img src="./media/image208.png"
-> style="width:6.26806in;height:2.73819in" />
->
-> <img src="./media/image209.png" style="width:6.26806in;height:2.75in" />
+<img src="./media/image207.png"
+style="width:6.26806in;height:2.73611in" />
+
+<img src="./media/image208.png"
+style="width:6.26806in;height:2.73819in" />
+
+<img src="./media/image209.png" style="width:6.26806in;height:2.75in" />
 
 8.  Click on the **+ icon** between the two steps in the flow and select
     **Add an action**.
@@ -2411,8 +2411,8 @@ style="width:6.26806in;height:2.97153in" />
 9.  In the **Search** field, type **Dataverse** and select **See more**
     for the Dataverse connector.
 
-> <img src="./media/image211.png"
-> style="width:6.26806in;height:2.76528in" />
+<img src="./media/image211.png"
+style="width:6.26806in;height:2.76528in" />
 
 10. Select **Add a new row** action.
 
@@ -2454,11 +2454,11 @@ style="width:6.26806in;height:2.73889in" />
     10. **Contact Method** Dynamic Input → **Preferred Contact Method**
         Parameter.
 
-> <img src="./media/image215.png"
-> style="width:6.26806in;height:2.72917in" />
->
-> <img src="./media/image216.png"
-> style="width:6.26806in;height:2.78542in" />
+<img src="./media/image215.png"
+style="width:6.26806in;height:2.72917in" />
+
+<img src="./media/image216.png"
+style="width:6.26806in;height:2.78542in" />
 
 14. Select **Respond to Copilot** action.
 
@@ -2466,15 +2466,15 @@ style="width:6.26806in;height:2.73889in" />
 
 16. Ensure that **Asynchronous Response** is set to **Off**.
 
-> <img src="./media/image217.png"
-> style="width:6.26806in;height:2.77361in" />
+<img src="./media/image217.png"
+style="width:6.26806in;height:2.77361in" />
 
 17. Select **Save draft**.
 
 18. Then, click on **Publish**.
 
-> <img src="./media/image218.png"
-> style="width:6.26806in;height:2.96319in" />
+<img src="./media/image218.png"
+style="width:6.26806in;height:2.96319in" />
 
 19. Once the flow is published, close the Power Automate tab to return
     to Copilot Studio.
@@ -2558,11 +2558,11 @@ style="width:6.26806in;height:3.0375in" />
     10. **Description** Input: Click on the input field, then select
         **description** from the custom variables.
 
-> <img src="./media/image225.png"
-> style="width:6.26806in;height:2.91528in" />
->
-> <img src="./media/image226.png"
-> style="width:6.26806in;height:2.97708in" />
+<img src="./media/image225.png"
+style="width:6.26806in;height:2.91528in" />
+
+<img src="./media/image226.png"
+style="width:6.26806in;height:2.97708in" />
 
 10. After mapping all the variables, click on the **Save** button to
     save the topic configuration.
@@ -2633,33 +2633,33 @@ style="width:6.26806in;height:2.96875in" />
 
 2.  Tell me more about Surface Laptop Go 3. What are the specs & cost?
 
-> <img src="./media/image167.png"
-> style="width:6.26806in;height:2.96389in" />
->
-> <img src="./media/image168.png"
-> style="width:6.26806in;height:2.95208in" />
+<img src="./media/image167.png"
+style="width:6.26806in;height:2.96389in" />
+
+<img src="./media/image168.png"
+style="width:6.26806in;height:2.95208in" />
 
 3.  Compare laptop surface laptop pro 3 and surface laptop studio 2.
 
-> <img src="./media/image169.png"
-> style="width:6.26806in;height:2.97917in" />
->
-> <img src="./media/image170.png"
-> style="width:6.26806in;height:2.94792in" />
+<img src="./media/image169.png"
+style="width:6.26806in;height:2.97917in" />
+
+<img src="./media/image170.png"
+style="width:6.26806in;height:2.94792in" />
 
 4.  Book Appointment for further assistance
 
-> <img src="./media/image230.png"
-> style="width:6.26806in;height:2.97361in" />
->
-> <img src="./media/image231.png"
-> style="width:6.26806in;height:2.96736in" />
+<img src="./media/image230.png"
+style="width:6.26806in;height:2.97361in" />
+
+<img src="./media/image231.png"
+style="width:6.26806in;height:2.96736in" />
 
 5.  Ensure that the details entered in the Appointment Booking are
     accurately reflected in the "Book Appointments" table in Power Apps.
 
-> <img src="./media/image232.png"
-> style="width:6.26806in;height:2.96042in" />
+<img src="./media/image232.png"
+style="width:6.26806in;height:2.96042in" />
 
 7.  Enter the following trigger phrases to test the topics you created:
 
