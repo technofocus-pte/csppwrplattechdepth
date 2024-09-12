@@ -301,16 +301,16 @@ alt="A screenshot of a computer Description automatically generated" />
         the user's default status when they are logged into the
         Omnichannel system.
 
-> <img src="./media/image16.png" style="width:6.26806in;height:2.57014in"
-> alt="A screenshot of a computer Description automatically generated" />
+<img src="./media/image16.png" style="width:6.26806in;height:2.57014in"
+alt="A screenshot of a computer Description automatically generated" />
 
 11. After configuring the settings, ensure that you save the changes.
 
 12. Click on **Save and close** to finalize the user settings and exit
     the configuration page.
 
-> <img src="./media/image17.png" style="width:6.26806in;height:2.55417in"
-> alt="A screenshot of a computer Description automatically generated" />
+<img src="./media/image17.png" style="width:6.26806in;height:2.55417in"
+alt="A screenshot of a computer Description automatically generated" />
 
 ### Task 3: Configure Omnichannel Power Virtual Agent Extension
 
