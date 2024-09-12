@@ -643,7 +643,7 @@ style="width:6.26806in;height:2.98056in" />
 <img src="./media/image45.png"
 style="width:5.88362in;height:2.78341in" />
 
-    2.  Change the display name to **Appointment Type** and click on
+2.  Change the display name to **Appointment Type** and click on
     **Save**.
 
 <img src="./media/image46.png"
@@ -723,7 +723,7 @@ style="width:6.26806in;height:2.98333in" />
 <img src="./media/image54.png"
 style="width:6.13775in;height:2.91519in" />
 
-    2.  Change the display name to **Full Name** and click on **Save**.
+2.  Change the display name to **Full Name** and click on **Save**.
 
 <img src="./media/image55.png"
 style="width:6.12093in;height:2.90042in" />
