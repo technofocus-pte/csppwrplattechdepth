@@ -240,9 +240,9 @@ alt="A screenshot of a computer Description automatically generated" />
 
 > **Note:** This toggle will be set to **Yes** only if the tenant
 > administrator has already provided consent.
->
-> <img src="./media/image10.png"
-> style="width:6.26806in;height:2.76181in" />
+
+<img src="./media/image10.png"
+style="width:6.26806in;height:2.76181in" />
 
 17. Finally, click **Save** to apply the configuration changes.
 
