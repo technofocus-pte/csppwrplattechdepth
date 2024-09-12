@@ -2687,7 +2687,7 @@ style="width:6.26806in;height:2.94236in" />
 <img src="./media/image235.png"
 style="width:6.26806in;height:2.82222in" />
 
-  d.  Ensure that the details entered in the Appointment Booking are
+d.  Ensure that the details entered in the Appointment Booking are
     accurately reflected in the "Refund Requests" table in Power Apps.
 
 <img src="./media/image236.png"
