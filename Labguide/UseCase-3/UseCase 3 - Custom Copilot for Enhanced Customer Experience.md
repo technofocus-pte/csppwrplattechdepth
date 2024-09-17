@@ -155,7 +155,7 @@ interactions efficiently using capabilities of Dynamics 365 Customer Service.
     <img src="./media/image2.png" style="width:6.26806in;height:3.32708in"
 alt="A person smiling at a customer service Description automatically generated" />
 
-3.  Enter your Tenant ID on the redirected page. This ID uniquely
+3.  Enter your Admin Tenant ID on the redirected page. This ID uniquely
     identifies your organization within Microsoft's ecosystem.
 
 4.  Click **Start your free trial** to proceed.
@@ -275,7 +275,7 @@ seamless integration and communication with the customer engagement hub.
 
 ### Task 1: Configure Escalate Topic
 
-1.  Navigate to **Copilot Studio** and select your **Contoso Electronics
+1.  Navigate to **Copilot Studio** and Sign In with the Same admin tenant id. Select **Contoso Electronics
     Services Copilot**.
 
 2.  In the top navigation bar, click on **Topics** (located next to the
@@ -376,7 +376,7 @@ activation to ensure it is functioning correctly.
 
 ### Task 1: Add Bot in Dynamics 365 Customer Service
 
-1.  Click on **Customer Service workspace** to explore the apps.
+1.  Navigate to Dynamic 365 Customer Service and  click on **Customer Service workspace** to explore the apps.
 
     <img src="./media/image26.png" style="width:6.26806in;height:2.96181in"
 alt="A screenshot of a computer Description automatically generated" />
@@ -440,7 +440,7 @@ functioning as expected.
 
 1.  Visit
     <https://www.microsoft.com/en-us/power-platform/products/power-pages>
-    and sign in with the same ID and password.
+    and sign in with the same Admin Tenant ID and Password.
 
     <img src="./media/image33.png" style="width:6.26806in;height:2.93889in"
 alt="A screenshot of a computer Description automatically generated" />
