@@ -178,9 +178,9 @@ operations.
 style="width:6.26806in;height:3.32708in" />
 
 3.  After clicking the button, you will be redirected to a page where
-    you need to enter your **Tenant ID**.
+    you need to enter your **Admin Tenant ID**.
 
-4.  Once you have entered the Tenant ID, click on **Start your free
+4.  Once you have entered the **Admin Tenant ID**, click on **Start your free
     trial** to proceed.
 
     <img src="./media/image3.png"
@@ -327,7 +327,7 @@ alt="A screenshot of a computer Description automatically generated" />
 
 1.  Start by navigating to the
     <https://appsource.microsoft.com/en-cy/product/dynamics-365/mscrm.omnichannelpvaextension?tab=Overview&ref=dynamicsforcrm.com>
-    page. If required sign in with same Tenant ID.
+    page. If required sign in with same Admin Tenant ID.
 
 2.  On this page, click the **Get it now** button. This initiates the
     installation of the extension, which is essential for integrating
@@ -473,10 +473,9 @@ Copilot functionalities.
 style="width:6.26806in;height:2.96875in" />
 
 3.  Under the "Let's get started" section, you'll see a text box
-    labelled **Enter your work email address**. Type in your work email
-    address here.
+    labelled **Enter your work email address**. Type in your Same Admin Tenant ID here.
 
-4.  After entering your email, check the agreement box to agree to the
+4.  After entering your tenant id, check the agreement box to agree to the
     terms and conditions.
 
 5.  Click on **Start free** to proceed.
@@ -488,7 +487,7 @@ style="width:6.26806in;height:2.93472in" />
     account associated with the entered email address, select **Sign
     in**.
 
-7.  Enter your Microsoft account password when prompted.
+7.  Enter your admin tenant id and password when prompted.
 
 8.  After signing in, you may be prompted with an option to stay signed
     in. Select **Yes** to stay signed in for quicker access in the
@@ -510,7 +509,7 @@ style="width:6.26806in;height:2.93472in" />
     <img src="./media/image31.png"
 style="width:6.26806in;height:2.83958in" />
 
-3.  If prompted to sign in, enter your **email address** and
+3.  If prompted to sign in, enter your **Admin Tenant ID** and
     select **Sign in**.
 
 4.  In the **Welcome to Copilot Studio** popup, leave the country/region
@@ -551,7 +550,7 @@ build and organize your data tables effectively.
 1.  Navigate to the Power Apps Maker Portal at
     <https://make.powerapps.com> using your web browser.
 
-2.  Ensure you're signed in with your tenant id and select the
+2.  Ensure you're signed in with your admin tenant id and select the
     environment from the top-right corner.
 
     <img src="./media/image33.png"
@@ -2128,7 +2127,7 @@ style="width:6.26806in;height:2.95069in" />
 
 4.  Scroll down and select **Create a new flow**. A new Power Automate
     flow window will pop up, if log in to Power Automate window open
-    using the same ID and password.
+    using the same **Admin Tenant ID and Password**.
 
     <img src="./media/image177.png"
 style="width:6.26806in;height:2.97708in" />
@@ -2334,7 +2333,7 @@ style="width:6.26806in;height:2.98056in" />
 
 4.  Scroll down and select **Create a new flow**. A new Power Automate
     flow window will pop up. If necessary, log in to Power Automate
-    using the same ID and password.
+    using the same **Admin Tenant ID and Password**.
 
     <img src="./media/image204.png"
 style="width:6.26806in;height:2.90139in" />
