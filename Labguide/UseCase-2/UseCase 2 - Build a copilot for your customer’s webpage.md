@@ -143,6 +143,8 @@ These personas will participate in the following sequential scenarios: 
 
 For this use case, all participants will need the following: 
 
+- Work or School Emai Id and Password.
+
 - Microsoft Power Apps Free Trial License
 
 - Microsoft Power Automate Free Trial License
@@ -152,6 +154,10 @@ For this use case, all participants will need the following: 
 - Microsoft Dynamics 365 Customer Service Free Trial License
 
 - Contoso Refund Policy File.
+
+
+> Note: Please be aware that the user interface (UI) of Power Apps, Copilot, Microsoft 365, Power Automate, and other related tools may change over time as Microsoft continues to update its products. However, the core concepts and logic behind their functionality will remain consistent. The principles you learn in this lab can still be applied, even if the UI looks different in the future. 
+
 
 # **Lab Instructions**
 
@@ -178,9 +184,9 @@ operations.
 style="width:6.26806in;height:3.32708in" />
 
 3.  After clicking the button, you will be redirected to a page where
-    you need to enter your **Admin Tenant ID**.
+    you need to enter your **Work, School or Admin Tenant Email ID**. For this lab, we use an admin tenant ID, but      participants can use any of these options. 
 
-4.  Once you have entered the **Admin Tenant ID**, click on **Start your free
+4.  Once you have entered the **Email ID**, click on **Start your free
     trial** to proceed.
 
     <img src="./media/image3.png"
@@ -189,11 +195,11 @@ style="width:6.26806in;height:4.95833in" />
 5.  Then Enter the **password** required for the login and then click on
     **Sign in.**
 
-    <img src="./media/image4.png"
-style="width:6.26806in;height:4.05903in" />
+    ![Screenshot 2024-09-19 135636](https://github.com/user-attachments/assets/b04214e3-8001-4970-85bd-359ff5dba202)
+
 
 6.  On the next screen, you will be asked to provide additional details
-    to complete the setup. Select **United States** as your **Region**.
+    to complete the setup. Select **Country** (We choose United States)  as **Region**.
 
 7.  Enter your **Phone Number** in the provided field for verification
     purposes. This helps Microsoft ensure that the trial is being
@@ -339,8 +345,8 @@ alt="A screenshot of a computer Description automatically generated" />
     <img src="./media/image18.png" style="width:6.26806in;height:2.99306in"
 alt="A screenshot of a computer Description automatically generated" />
 
-4.  Choose **CustomerService Trial** from the dropdown menu, then click
-    **Install**. This ensures that the extension is added to the correct
+4.  Choose **Environment** from the dropdown menu, then click
+    **Install** (For this lab we use CustomerService Trial, participant can choose any environment). This ensures that the extension is added to the correct
     environment where you’ll be configuring your customer service
     settings.
 
@@ -371,7 +377,7 @@ alt="A screenshot of a computer Description automatically generated" />
     using your tenant credentials.
 
 2.  After logging in, navigate to **Environments** on the left-hand side
-    and select **CustomerService Trial** from the list. This is where
+    and select **CustomerService Trial** (Same environment selected in previous task)from the list. This is where
     you’ll configure the search settings.
 
     <img src="./media/image22.png"
