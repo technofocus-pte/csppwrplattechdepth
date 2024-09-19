@@ -283,18 +283,15 @@ alt="A screenshot of a computer Description automatically generated" />
     the list to show only those users who are active in the Omnichannel
     environment.
 
-7.  On the **Omnichannel Users** page, review the list of users.
-
     <img src="./media/image13.png"
 style="width:6.26806in;height:2.97361in" />
 
-8.  Click on the user named **MOD Administrator** to open their specific
-    settings and configurations.
+7.  Click on the Omnichannel username to open the specific settings and configurations for that user. In our admin tenant, the user ID is displayed as MOD Administrator. If participants are using their work or school ID, their name or "Admin" will be reflected instead.
 
     <img src="./media/image14.png" style="width:6.26806in;height:2.91042in"
 alt="A screenshot of a computer Description automatically generated" />
 
-9.  Once you are on the **MOD Administrator** user page, locate and
+8.  Once you are on the user page, locate and
     select the **Omnichannel** tab. This tab contains settings specific
     to Omnichannel functionality, allowing you to manage how the user
     interacts within the Omnichannel environment.
@@ -302,21 +299,19 @@ alt="A screenshot of a computer Description automatically generated" />
     <img src="./media/image15.png" style="width:6.26806in;height:3.43819in"
 alt="A screenshot of a computer Description automatically generated" />
 
-10. On the **Omnichannel** tab, you will configure the following
-    settings:
-    - **Capacity**: Set the value to **100**. This determines the
-        user's workload capacity within the Omnichannel environment.
+9. On the **Omnichannel** tab, you will configure the following settings. If the current setting differs, please adjust the value as indicated below:
 
-    - **Default Presence**: Set this to **available**. This indicates
-        the user's default status when they are logged into the
-        Omnichannel system.
+    - **Capacity**: Set the value to **100**. This defines the user's workload capacity within the Omnichannel             environment.
+      
+    - **Default Presence**: Set this to **Available**. This specifies the user's default status when logged into           the Omnichannel system.
+
 
     <img src="./media/image16.png" style="width:6.26806in;height:2.57014in"
 alt="A screenshot of a computer Description automatically generated" />
 
-11. After configuring the settings, ensure that you save the changes.
+10. After configuring the settings, ensure that you save the changes.
 
-12. Click on **Save and close** to finalize the user settings and exit
+11. Click on **Save and close** to finalize the user settings and exit
     the configuration page.
 
     <img src="./media/image17.png" style="width:6.26806in;height:2.55417in"
@@ -338,15 +333,12 @@ alt="A screenshot of a computer Description automatically generated" />
     <img src="./media/image18.png" style="width:6.26806in;height:2.99306in"
 alt="A screenshot of a computer Description automatically generated" />
 
-4.  Choose **Environment** from the dropdown menu, then click
-    **Install** (For this lab we use CustomerService Trial, participant can choose any environment). This ensures that the extension is added to the correct
-    environment where you’ll be configuring your customer service
-    settings.
+4.  Choose **Environment** from the dropdown menu, then click **Install** (For this lab we use CustomerService Trial, participant can choose any environment). This ensures that the extension is added to the correct environment where you’ll be configuring your customer service settings.
 
     <img src="./media/image19.png"
 style="width:6.26806in;height:2.97708in" />
 
-5.  Once the extension is installed, you’ll need to update the relevant
+5.  Once the extension is installed, you’ll need to update all
     Dynamics 365 apps to ensure they are compatible with the new
     extension.
 
@@ -371,12 +363,12 @@ alt="A screenshot of a computer Description automatically generated" />
 
 2.  After logging in, navigate to **Environments** on the left-hand side
     and select **CustomerService Trial** (Same environment selected in previous task)from the list. This is where
-    you’ll configure the search settings.
+    you’ll configure the search settings. Participant should select the same environment in which they install the omnichannel power virtual agent extension. 
 
     <img src="./media/image22.png"
 style="width:6.26806in;height:2.97222in" />
 
-3.  In the **CustomerService Trial** environment, locate the top pane,
+3.  In the environment, locate the top pane,
     click the dropdown next to **Resource**, and select **Dynamics 365
     apps**.
 
@@ -390,7 +382,7 @@ style="width:6.26806in;height:2.9625in" />
     <img src="./media/image24.png" style="width:6.26806in;height:3.85208in"
 alt="A screenshot of a computer Description automatically generated" />
 
-5.  Go back to the **Environments -\> CustomerService Trial** page in
+5.  Go back to the **Environments -\> CustomerService Trial** (Environment Name) page in
     the admin center.
 
     <img src="./media/image22.png"
@@ -472,9 +464,9 @@ Copilot functionalities.
 style="width:6.26806in;height:2.96875in" />
 
 3.  Under the "Let's get started" section, you'll see a text box
-    labelled **Enter your work email address**. Type in your Same Admin Tenant ID here.
+    labelled **Enter your work email address**. Type in your same ID here.
 
-4.  After entering your tenant id, check the agreement box to agree to the
+4.  After entering your id, check the agreement box to agree to the
     terms and conditions.
 
 5.  Click on **Start free** to proceed.
@@ -484,18 +476,14 @@ style="width:6.26806in;height:2.93472in" />
 
 6.  If you receive a prompt stating that you already have a Microsoft
     account associated with the entered email address, select **Sign
-    in**.
+    in**. Enter your id and password when prompted.
 
-7.  Enter your admin tenant id and password when prompted.
-
-8.  After signing in, you may be prompted with an option to stay signed
+7.  After signing in, you may be prompted with an option to stay signed
     in. Select **Yes** to stay signed in for quicker access in the
     future.
 
-9.  Once you're signed in, look at the top-right corner of the screen.
-    Choose customer service environment. This is important for the next
-    steps, as you’ll need to select this environment when working in
-    Power Apps.
+8.  Once you're signed in, look at the top-right corner of the screen.
+    Choose environment in which we installed the omnichannel extension (as per lab we select CustomerService            Trial).. This is important for the next teps, as you’ll need to select this environment when working in ower        Apps.
 
 ### Task 2: Sign up for Copilot Studio
 
@@ -503,13 +491,10 @@ style="width:6.26806in;height:2.93472in" />
     to [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com/) and
     click on sign in.
 
-2.  Pick an account window will pop up, select your account.
+2.  Pick an account window will pop up, select your same account. If prompted to sign in, enter your **ID**  - **Password** and select **Sign in**.
 
     <img src="./media/image31.png"
 style="width:6.26806in;height:2.83958in" />
-
-3.  If prompted to sign in, enter your **Admin Tenant ID** and
-    select **Sign in**.
 
 4.  In the **Welcome to Copilot Studio** popup, leave the country/region
     as the default value and select get started.
@@ -549,8 +534,7 @@ build and organize your data tables effectively.
 1.  Navigate to the Power Apps Maker Portal at
     <https://make.powerapps.com> using your web browser.
 
-2.  Ensure you're signed in with your admin tenant id and select the
-    environment from the top-right corner.
+2.  Ensure you are signed in with the same ID and select the environment from the top-right corner. Participants must choose the environment they selected or used in the previous step. In our case, we selected CustomerService Trial.
 
     <img src="./media/image33.png"
 style="width:6.26806in;height:2.97847in" />
@@ -845,10 +829,7 @@ functional and intelligent copilot for your organization.
 
 1.  Navigate to Microsoft copilot studio.
 
-2.  Once logged in, make sure you are in the **CustomerService Trial**
-    environment, similar to how you would select an environment when
-    creating a Power App solution. If not select the environment from
-    the top-right corner.
+2.  Once logged in, make sure you are in the right environment, If not please select the right environment like how you would select an environment when creating a Power App solution.  
 
     <img src="./media/image66.png"
 style="width:6.26806in;height:3.00278in" />
