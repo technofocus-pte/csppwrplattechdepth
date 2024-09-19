@@ -143,7 +143,7 @@ These personas will participate in the following sequential scenarios: 
 
 For this use case, all participants will need the following: 
 
-- Work or School Emai Id and Password.
+- Work. School or Admin Tenant Emai Id and Password.
 
 - Microsoft Power Apps Free Trial License
 
@@ -237,32 +237,25 @@ style="width:6.26806in;height:2.98125in" />
     <img src="./media/image7.png"
 style="width:6.26806in;height:2.94931in" />
 
-14. In the admin Center, go to the **Customer Support** group and select
-    **Routing**. This section allows you to manage how customer service
-    requests are routed to the appropriate channels or agents within
-    your organization.
+14. In the admin Center, go to the **Customer Support group** and select **Routing**. This section allows you to manage how customer service requests are routed to the appropriate channels or agents within your organization. If participants are using school or work email ID, no need to perform this step. 
 
     <img src="./media/image8.png"
 style="width:6.26806in;height:2.94931in" />
 
-15. On the **Routing** page, Scroll down locate the **Record routing**
-    section. Here, you will find an option labelled **Turn on Unified
-    Routing for Records**. Click on **Manage** next to this option to
-    open the settings.
+15. On the Routing page, scroll down to locate the **Record** **Routing** section. Here, you will find an option labelled **Turn on Unified Routing for Records**. Click **Manage** next to this option to open the settings. If participants are using school or work email ID, no need to perform this step.
 
+  - Screenshort : Admin Tenant ID
+    
     <img src="./media/image9.png" style="width:6.26806in;height:2.42292in"
 alt="A screenshot of a computer Description automatically generated" />
 
-16. You will be taken to the **Service Configuration Settings** page.
-    Under the **Unified routing** section, ensure that the **Turn on
-    unified routing** toggle is switched to **Yes**.
 
-    > Note: This toggle will be set to **Yes** only if the tenant administrator has already provided consent.
+16. You will be taken to the Service Configuration Settings page. Under the **Unified Routing section**, ensure that the Turn on Unified Routing toggle is switched to **Yes**. If it is not set to **Yes**, please turn it on. If participants are using a school or work email ID, these steps are not necessary. 
 
     <img src="./media/image10.png"
 style="width:6.26806in;height:2.76181in" />
 
-17. Finally, click **Save** to apply the configuration changes.
+17. Finally, click **Save** to apply the configuration changes. If participants are using a school or work email ID, these steps are not necessary. 
 
     <img src="./media/image11.png"
 style="width:6.26806in;height:2.9625in" />
