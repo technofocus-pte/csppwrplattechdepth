@@ -1,18 +1,35 @@
-<img src="./media/f206b6dee2c05a2ab4b21406bb71a625d19df3c4.png"
+<img src="./media/image1.png"
 style="width:6.26042in;height:2.41667in" />  
 
-# Level-up CSP Technical Training – Power Platform Facilitator Guide  **
+# Level-up CSP Technical Training – Power Platform Facilitator Guide  
 
 ## Custom Copilot for Enhanced Customer Experience
 
 ## Lab Guide for Retail Scenario
 
-| Description | This scenario extends the functionality of the Virtual Assistant copilot for Contoso Electronics, initially developed to assist customers with product discovery and post-purchase activities like return eligibility and refund requests. The enhancement introduces automated case escalation, allowing the copilot to seamlessly transfer conversations to live agents when it cannot resolve a query or when the customer requests human assistance. This ensures a more personalized and efficient customer service experience by blending automated responses with human support for complex issues. |
-|:---|:---|
-| Prerequisites | To get the most out of this lab guide we recommend you must develop copilot use case 2 (Build a copilot for your customer’s webpage), Microsoft dynamic 365 Customer Service trial license, Copilot Studio, Power Pages trial license and Admin Tenant ID - Password. |
-| Duration | 30 mins |
-| Version | 1.0 |
-| Publication date  | September 2024 |
+<table>
+  <tr>
+    <td><strong>Description</strong></td>
+    <td>This scenario extends the functionality of the Virtual Assistant copilot for Contoso Electronics, initially developed to assist customers with product discovery and post-purchase activities like return eligibility and refund requests. The enhancement introduces automated case escalation, allowing the copilot to seamlessly transfer conversations to live agents when it cannot resolve a query or when the customer requests human assistance. This ensures a more personalized and efficient customer service experience by blending automated responses with human support for complex issues.</td>
+  </tr>
+  <tr>
+    <td><strong>Prerequisites</strong></td>
+    <td>To get the most out of this lab guide we recommend you must develop copilot use case 2 (Build a copilot for your customer’s webpage), Microsoft dynamic 365 Customer Service trial license, Copilot Studio, Power Pages trial license and Admin Tenant ID - Password.</td>
+  </tr>
+  <tr>
+    <td><strong>Duration</strong></td>
+    <td>30 mins</td>
+  </tr>
+  <tr>
+    <td><strong>Version</strong></td>
+    <td>1.0</td>
+  </tr>
+  <tr>
+    <td><strong>Publication date</strong></td>
+    <td>September 2024</td>
+  </tr>
+</table>
+
 
 This document is provided “as-is”. Information and views expressed in
 this document, including URL and other Internet Web site references, may
@@ -40,8 +57,6 @@ verifying return eligibility and submitting refund requests seamlessly.
 In this use case, the goal is to enhance the copilot by introducing
 automated case escalation to live agents when the copilot cannot resolve
 a customer’s issue or when the customer requests human support.
-
-## 
 
 ## Solution Focus Area
 
@@ -114,7 +129,6 @@ These personas will participate in the following sequential scenarios: 
   issues or detailed inquiries. They ensure Miriam’s refund request is
   processed smoothly and promptly.
 
-
 ## Pre-requisites 
 
 For this use case, all participants will need the following: 
@@ -130,13 +144,12 @@ For this use case, all participants will need the following: 
 - Contoso Electronics Bot Use Case 2 (Build a copilot for your
   customer’s webpage)
 
-**Note:** Please be aware that the user interface (UI) of Power Apps,
+    > **Note:** Please be aware that the user interface (UI) of Power Apps,
 Copilot, Microsoft 365, Power Automate, and other related tools may
 change over time as Microsoft continues to update its products. However,
 the core concepts and logic behind their functionality will remain
 consistent. The principles you learn in this lab can still be applied,
 even if the UI looks different in the future.
-
 
 
 # **Lab Instructions**
@@ -157,26 +170,26 @@ interactions efficiently using Dynamics 365’s capabilities.
     process of signing up for a free trial of Dynamics 365 Customer
     Service.
 
-<img src="./media/585ca016cd1e040c27372302b76435c84c136b03.png"
+    <img src="./media/image2.png"
 style="width:6.26806in;height:3.32708in" />
 
 3.  After clicking the button, you will be redirected to a page where
     you need to enter your admin Tenant Email ID (Same Id as Use case
     2).
 
-Note: This lab is the extended version of **Build a copilot for your
+    > Note: This lab is the extended version of **Build a copilot for your
 customer’s webpage lab,** please use same credential in both the lab.
 
 4.  Once you have entered the ID, Select the checkbox and click on Start
     your free trial to proceed.
 
-<img src="./media/3ccdfd3011924d9b9f9f41b272436cbdc9a47e96.png"
+    <img src="./media/image3.png"
 style="width:6.26042in;height:4.95833in" />
 
 5.  Then Enter the password required for the login and then click on
     Sign in.
 
-<img src="./media/a24b04e1411902ff0ef5f9fc9a6af9b1a1f15eee.png"
+    <img src="./media/image4.png"
 style="width:6.26806in;height:4.05903in" />
 
 6.  On the next screen, you will be asked to provide additional details
@@ -190,23 +203,23 @@ style="width:6.26806in;height:4.05903in" />
 8.  Once all information is entered, click on **Submit** to finalize the
     setup.
 
-<img src="./media/e71cc0dcf52443db80249f7e1e817a530d637af2.png"
+    <img src="./media/image5.png"
 style="width:6.26806in;height:4.19167in" />
 
 9.  After submission, you will be redirected to the Dynamics 365
     Customer Service home page.
 
 10. Click on **Customer Service workspace** to explore the tools
-    available.
+    available.  
 
-<img src="./media/4a9275529a9827221709fbb3fd1df8af50ea4de6.png"
+    <img src="./media/image6.png"
 style="width:6.26806in;height:2.98125in" />
 
 11. Locate and click on **Customer Service admin Center** within the
     workspace to configure settings, manage users, and customize your
-    customer service setup.
+    customer service setup. 
 
-<img src="./media/e63de255877073609436a9e48fa9564f41deb93b.png"
+    <img src="./media/image7.png"
 style="width:6.26806in;height:2.94931in" />
 
 ## Task 2: Manage a User in Omnichannel for Customer Service
@@ -222,9 +235,8 @@ style="width:6.26806in;height:2.94931in" />
 4.  Click on the **Manage** button next to **Users** to open the list of
     users within your organization.
 
-> <img src="./media/6ef1f9bf9d45c93f3709c2100b4c7046c8be6add.png"
-> style="width:6.26042in;height:2.375in"
-> alt="A screenshot of a computer Description automatically generated" />
+    <img src="./media/image8.png" style="width:6.26042in;height:2.375in"
+alt="A screenshot of a computer Description automatically generated" />
 
 5.  To focus on users who are part of the Omnichannel for Customer
     Service, click the dropdown next to **Enabled Users**.
@@ -233,17 +245,16 @@ style="width:6.26806in;height:2.94931in" />
     the list to show only those users who are active in the Omnichannel
     environment.
 
-> <img src="./media/9fd2e6b0247e2696a21760e85bdf72d112d83ee5.png"
-> style="width:6.26042in;height:2.96875in" />
+    <img src="./media/image9.png"
+style="width:6.26042in;height:2.96875in" />
 
 7.  Click on the Omnichannel username to open the specific settings and
     configurations for that user. In our admin tenant, the **username**
     is displayed as **MOD Administrator**. If participants are using
     their admin Tenant ID, their username may be change and shows **like
     “John”, "Admin" etc.**  
-      
-    <img src="./media/43ba9bbb51e092bd0bb1f1060935b436c09943db.png"
-    style="width:6.26042in;height:2.90625in"
+
+    <img src="./media/image10.png" style="width:6.26042in;height:2.90625in"
     alt="A screenshot of a computer Description automatically generated" />
 
 8.  Once you are on the user page, locate and select the **Omnichannel**
@@ -251,39 +262,34 @@ style="width:6.26806in;height:2.94931in" />
     functionality, allowing you to manage how the user interacts within
     the Omnichannel environment.
 
-> <img src="./media/cda841681665a38fac65c8bf914a0e66871ba349.png"
-> style="width:6.26042in;height:3.4375in"
-> alt="A screenshot of a computer Description automatically generated" />
+    <img src="./media/image11.png" style="width:6.26042in;height:3.4375in"
+alt="A screenshot of a computer Description automatically generated" />
 
 9.  On the Omnichannel tab, you will confirm the following settings. If
     the current setting differs, please adjust the value as indicated
     below:
 
-    1.  Capacity: Set the value to 100. This defines the user's workload
-        capacity within the Omnichannel environment.
+    1.  **Capacity:** Set the value to 100. This defines the user's
+        workload capacity within the Omnichannel environment.
 
-    2.  Default Presence: Set this to Available. This specifies the
+    2.  **Default Presence:** Set this to Available. This specifies the
         user's default status when logged into the Omnichannel system.
 
-> <img src="./media/ff83e142df4a1d4bb8248166d40b290eaa8a1d29.png"
-> style="width:6.26042in;height:2.5625in"
-> alt="A screenshot of a computer Description automatically generated" />
+    <img src="./media/image12.png" style="width:6.26042in;height:2.5625in"
+alt="A screenshot of a computer Description automatically generated" />
 
 10. Click on **Save and close** to finalize the user settings and exit
     the configuration page.
 
-> <img src="./media/5ab0c62ddb5e228cedf7f943fbcc3263afcd04d7.png"
-> style="width:6.26042in;height:2.55208in"
-> alt="A screenshot of a computer Description automatically generated" />
-
-## 
+    <img src="./media/image13.png" style="width:6.26042in;height:2.55208in"
+alt="A screenshot of a computer Description automatically generated" />
 
 ## Task 3: Create a New Workstream
 
 1.  In the left navigation bar, click on **Workstream**, then click on
-    **+ New Workstream** to create a new one.
+    **+ New Workstream** to create a new one.   
 
-<img src="./media/597dde8c87080746ae1fc53673ce3a9c565b922e.png"
+    <img src="./media/image14.png"
 style="width:6.26806in;height:2.77569in" />
 
 2.  Enter **Contoso Agent** in the Name field.
@@ -299,46 +305,45 @@ style="width:6.26806in;height:2.77569in" />
     (1 user)**.
 
 7.  Click **Create** to finalize the new workstream. You will be
-    redirect to Contoso agent workstream.
+    redirect to Contoso agent workstream.   
 
-<img src="./media/9f1edc19c3b429e4b5cc9d69894c6bbdfeac07e9.png"
+    <img src="./media/image15.png"
 style="width:6.26806in;height:2.93125in" />
 
 ## Task 4: Configure a New Channel
 
-1.  In the **Contoso Agent** workstream, click on **Set up chat**.
+1.  In the **Contoso Agent** workstream, click on **Set up chat**.  
 
-<img src="./media/37b977c0e00b827cd3c72fd17fb583d33829db5b.png"
+    <img src="./media/image16.png"
 style="width:6.26806in;height:2.91389in" />
 
 2.  Enter **Contoso Live Agent** as the name of the channel. Click
-    **Next**.
+    **Next**.   
 
-<img src="./media/1b134a1463270d82e58d8687f948c23036bb145d.png"
+    <img src="./media/image17.png"
 style="width:6.26806in;height:2.98819in" />
 
-3.  Enter **Contoso Agent** in the Title field. Click **Next** again.
+3.  Enter **Contoso Agent** in the Title field. Click **Next** again.   
 
-<img src="./media/7dfaf4a4ec565f073ecde7c0b3a88688c69aa27c.png"
-style="width:6.26806in;height:2.99653in" />
+    <img src="./media/image18.png"
+style="width:6.26806in;height:2.99653in" /> 
 
-<img src="./media/f65a5cafa107b71c94edeb3e7b7e9d09eb375409.png"
-style="width:6.26806in;height:2.97708in" />
+    <img src="./media/image19.png" style="width:6.26806in;height:2.97708in" />
 
 4.  On the User Features page, turn off **File attachment** and **Voice
-    and Video Call** options, then click **Next**.
+    and Video Call** options, then click **Next**.  
 
-<img src="./media/bbaed24c0c953b885ac6a19f8165a8d1ecbe580b.png"
+    <img src="./media/image20.png"
 style="width:6.26806in;height:2.97639in" />
 
-5.  Click on the **Create Channel**.
+5.  Click on the **Create Channel**.    
 
-<img src="./media/caa3161a0736872129d8b3e3a7ce65b42920c91b.png"
+    <img src="./media/image21.png"
 style="width:6.26806in;height:2.98403in" />
 
-6.  Copy the widget code and click **Done**.
+6.  Copy the widget code and click **Done**.    
 
-<img src="./media/e8b7c58ebb460968eb282d7e07fbe43a3dcd0ecd.png"
+    <img src="./media/image22.png"
 style="width:6.26806in;height:3.14514in" />
 
 ## Conclusion
@@ -375,23 +380,23 @@ seamless integration and communication with the customer engagement hub.
 2.  Select your **Contoso Electronics Services Copilot**.
 
 3.  In the top navigation bar, click on **Topics** (located next to the
-    knowledge base).
+    knowledge base).    
 
-<img src="./media/3c8e80337ef4585a04f989e77afd8e57ae64b451.png"
+    <img src="./media/image23.png"
 style="width:6.26806in;height:2.95625in" />
 
 4.  Scroll down to locate the **Escalate** topic and select it to open
-    the configuration.
+    the configuration.  
 
-<img src="./media/f944b19a0e0fd73b4dee5d1173610ecab8352e8a.png"
+    <img src="./media/image24.png"
 style="width:6.26806in;height:2.96042in" />
 
 5.  In the topic canvas, find the **message node**.
 
 6.  Click on the three dots next to the message node and choose
-    **Delete** to remove it.
+    **Delete** to remove it.    
 
-<img src="./media/f0bcc9d749d09f8e06cd4e7e4310d12b18ef4899.png"
+    <img src="./media/image25.png"
 style="width:6.26806in;height:2.95208in" />
 
 7.  Click on the **+ sign** below the trigger node to add a new node.
@@ -399,15 +404,15 @@ style="width:6.26806in;height:2.95208in" />
 8.  Select **Topic Management** from the options.
 
 9.  In the topic management options, select **Transfer Conversation** to
-    create a new transfer node.
+    create a new transfer node. 
 
-<img src="./media/16d35c0e168412ccfca64823141a168b55e62c01.png"
+    <img src="./media/image26.png"
 style="width:6.26806in;height:2.97153in" />
 
 10. Once the **Transfer Conversation** node is added, click the **Save**
-    button to save the configuration changes.
+    button to save the configuration changes.   
 
-<img src="./media/c58d99d15fc46db5561a27f5283eaaabb4268223.png"
+    <img src="./media/image27.png"
 style="width:6.26806in;height:2.93611in" />
 
 ## Task 2: Activate the Copilot Channel
@@ -415,19 +420,19 @@ style="width:6.26806in;height:2.93611in" />
 1.  Navigate to **Copilot Studio** and open your **Contoso Electronics
     Services Copilot**.
 
-2.  Click on the **Channel** next to the action button.
+2.  Click on the **Channel** next to the action button. 
 
-<img src="./media/436f5bfd7a61814229f6290b0e0466385946c72e.png"
+    <img src="./media/image28.png"
 style="width:6.26806in;height:2.94028in" />
 
-3.  Scroll down and select **Customer Engagement Hub**.
+3.  Scroll down and select **Customer Engagement Hub**. 
 
-<img src="./media/fe6cf007b27a7dc1467d9bd2fd29783474732994.png"
+    <img src="./media/image29.png"
 style="width:6.26806in;height:2.98056in" />
 
-4.  Click **Connect** to create a connection with Dynamics 365.
+4.  Click **Connect** to create a connection with Dynamics 365. 
 
-<img src="./media/609a2771a61e2a703af52d0dabe500521d320860.png"
+    <img src="./media/image30.png"
 style="width:6.26806in;height:2.97708in" />
 
 ## Task 3: Publish Your Copilot
@@ -435,15 +440,15 @@ style="width:6.26806in;height:2.97708in" />
 1.  Navigate to Overview section and In Microsoft Copilot Studio, look
     for the **Publish** button on the right side of the screen.
 
-2.  Click on the **Publish** button to start the publishing process.
+2.  Click on the **Publish** button to start the publishing process.    
 
-<img src="./media/ea792bcf25b77cb284c82020057a9d6a8f06ce5e.png"
+    <img src="./media/image31.png"
 style="width:6.26806in;height:2.95764in" />
 
 3.  A confirmation dialog may appear. Select **Publish** again to
-    finalize and publish your copilot.
+    finalize and publish your copilot.  
 
-<img src="./media/b164e1810c3e71ef548071334278a3b1451512aa.png"
+    <img src="./media/image32.png"
 style="width:6.26806in;height:2.97292in" />
 
 ## Conclusion
@@ -473,42 +478,41 @@ activation to ensure it is functioning correctly.
 ## Task 1: Add Bot in Dynamic 365 Customer Service
 
 1.  Navigate to **Dynamic 365 Customer service** and click on **Customer
-    Service workspace** to explore the apps.
+    Service workspace** to explore the apps.    
 
-<img src="./media/7a2191f8d1b7e40a8ae1e9f0dd47cdad75e0f1b3.png"
+    <img src="./media/image33.png"
 style="width:6.26806in;height:2.96181in" />
 
 2.  Locate and click on **Customer Service admin Center** within the
-    workspace.
+    workspace.  
 
-<img src="./media/811780dfc92fffd5c79a1711aec29389d9ee8be8.png"
+    <img src="./media/image34.png"
 style="width:6.26806in;height:2.92014in" />
 
 3.  In the left navigation bar, click on **Workstream**, then select the
-    **Contoso Agent** workstream created earlier.
+    **Contoso Agent** workstream created earlier.   
 
-<img src="./media/052169492471244785381260da94c60fdd40dae7.png"
+    <img src="./media/image35.png"
 style="width:6.26806in;height:2.94306in" />
 
-4.  At the bottom, click **Add Bot**.
+4.  At the bottom, click **Add Bot**.   
 
-<img src="./media/fe2773f2d9dffe1f45302289af239a391ca7aaf4.png"
-style="width:6.26806in;height:2.975in" />
+    <img src="./media/image36.png" style="width:6.26806in;height:2.975in" />
 
-5.  Select **Contoso Electronics Services** and click **Connect**.
+5.  Select **Contoso Electronics Services** and click **Connect**.  
 
-<img src="./media/f83a90a5fbc6450e854d8c56c261fd11e454b240.png"
+    <img src="./media/image37.png"
 style="width:6.26806in;height:2.98403in" />
 
 ## Task 2: Check Bot Connection
 
 1.  In the left navigation bar, click on **Bot** and check that the
-    **Contoso Electronics Services** bot is Connected.
+    **Contoso Electronics Services** bot is Connected.  
 
-<img src="./media/b0bf1d6f50d84f4cad53de93d546b1bf4237f97e.png"
-style="width:6.26806in;height:2.93889in" />
+    <img src="./media/image38.png"
+style="width:6.26806in;height:2.93889in" /> 
 
-<img src="./media/51340a7ebee049105e3ab02c58b464d406e35902.png"
+    <img src="./media/image39.png"
 style="width:6.26806in;height:2.85694in" />
 
 ## Conclusion
@@ -537,59 +541,59 @@ functioning as expected.
 
 1.  Visit
     <https://www.microsoft.com/en-us/power-platform/products/power-pages>
-    and sign in with the ID and password which we use early exercises.
+    and sign in with the ID and password which we use early exercises.  
 
-<img src="./media/eff5ab48cca2d16f3f06b39fbf2df3aada3be67a.png"
+    <img src="./media/image40.png"
 style="width:6.26806in;height:2.93889in" />
 
 2.  From the top right corner, select the correct environment
-    **CustomerService Trial.**
+    **CustomerService Trial.**  
 
-<img src="./media/08db682e9fd9e5974db153c305160c8a8c4b3edb.png"
+    <img src="./media/image41.png"
 style="width:6.26806in;height:2.99444in" />
 
-3.  Scroll down and select **Start a template**.
+3.  Scroll down and select **Start a template**.    
 
-<img src="./media/d94c442394c0d5951d553bf1948d009c9a8870cd.png"
+    <img src="./media/image42.png"
 style="width:6.26806in;height:2.9625in" />
 
-4.  Choose a template, name the website **Contoso**, and click **Done**.
+4.  Choose a template, name the website **Contoso**, and click **Done**.    
 
-<img src="./media/67858d498a202d7cb4df0fb9d91db7b16a4756ca.png"
-style="width:6.26806in;height:2.99722in" />
+    <img src="./media/image43.png"
+style="width:6.26806in;height:2.99722in" /> 
 
-<img src="./media/58e762307b6b31ce65d6e8025fb29114dfb06a56.png"
+    <img src="./media/image44.png"
 style="width:6.26806in;height:2.77569in" />
 
-5.  Click **Edit Code** and then **Open Visual Studio Code**.
+5.  Click **Edit Code** and then **Open Visual Studio Code**.   
 
-<img src="./media/90c85679abf456c8926287b56f0069b798422306.png"
+    <img src="./media/image45.png"
 style="width:6.26806in;height:2.94792in" />
 
-6.  Sign in to Visual Studio Code when prompted.
+6.  Sign in to Visual Studio Code when prompted.    
 
-<img src="./media/6eb26dc79f2548b2b426c58b595aa6214cfbaa75.png"
+    <img src="./media/image46.png"
 style="width:6.26806in;height:2.91806in" />
 
 7.  Paste the widget code (copied earlier) at the bottom of the website
-    home page code.
+    home page code. 
 
-<img src="./media/ef7d1d4b3d60ed2de1be3c38d6af95912db99c9c.png"
+    <img src="./media/image47.png"
 style="width:6.26806in;height:2.95347in" />
 
 8.  Save the file with **Ctrl + S**. Return to the Power Pages window
-    and click **Sync**.
+    and click **Sync**. 
 
-<img src="./media/7797f76f5f3be00ec027e4b2126420aa43f473c3.png"
+    <img src="./media/image48.png"
 style="width:6.26806in;height:3.01111in" />
 
 9.  Click **Preview** and then **Desktop** to preview the website. The
-    **Contoso Agent** bot will appear at the bottom.
+    **Contoso Agent** bot will appear at the bottom.    
 
-<img src="./media/b7dfd23654846e4a0f8f335316003a3100934bdc.png"
-style="width:6.26806in;height:2.93125in" />
+    <img src="./media/image49.png"
+style="width:6.26806in;height:2.93125in" /> 
 
-<img src="./media/9c45cbe14696f0b9eb9906f4bf25c9ab4d61602a.png"
+    <img src="./media/image50.png"
 style="width:6.26042in;height:2.94849in" />
 
 ## Conclusion
@@ -625,12 +629,12 @@ Service workspace.
 
 3.  Open **Contoso Agent** on the Power Pages website.
 
-4.  Type **Live agent** in the chatbot.
+4.  Type **Live agent** in the chatbot. 
 
-<img src="./media/9c45cbe14696f0b9eb9906f4bf25c9ab4d61602a.png"
-style="width:6.26806in;height:2.95208in" />
+    <img src="./media/image50.png"
+style="width:6.26806in;height:2.95208in" /> 
 
-<img src="./media/93590dbac3fe92881532bb35202075fa14f53ba8.png"
+    <img src="./media/image51.png"
 style="width:6.26806in;height:2.95208in" />
 
 5.  Open a new window, go to the Dynamic 365 customer service and click
@@ -640,24 +644,24 @@ style="width:6.26806in;height:2.95208in" />
 6.  The live agent chat request will be sent to the **Customer Service
     workspace,** where the live agent can accept or reject the request.
     (If request not seen there, refresh the power page preview and again
-    type live agent in the Contoso chat bot).
+    type live agent in the Contoso chat bot).   
 
-<img src="./media/7810d5d661259fdb00f5b06fd0909e6fe4d63714.png"
+    <img src="./media/image52.png"
 style="width:6.26806in;height:2.98958in" />
 
-7.  Live agent accepts the request and start conversation.
+7.  Live agent accepts the request and start conversation.  
 
-<img src="./media/31023645d58c16610eadcfca52e17ffa7b3dc2bf.png"
+    <img src="./media/image53.png"
 style="width:6.26806in;height:2.78403in" />
 
-8.  Customer reply to live agent.
+8.  Customer reply to live agent.   
 
-<img src="./media/7712799364c2ae24fae189f5c9a87e8a59e25357.png"
+    <img src="./media/image54.png"
 style="width:6.26806in;height:2.89861in" />
 
-9.  Contoso Electronic live agent replies.
+9.  Contoso Electronic live agent replies.  
 
-<img src="./media/f97cf2523eceb8e14643178fbc3dd75635277b47.png"
+    <img src="./media/image55.png"
 style="width:6.26806in;height:2.76458in" />
 
 # Final Conclusion
