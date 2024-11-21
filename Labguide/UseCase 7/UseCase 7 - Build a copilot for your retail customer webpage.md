@@ -1,10 +1,10 @@
 <img src="./media/image1.png" style="width:6.1875in;height:2.39583in" />
 
-Level-up CSP Technical Training – Power Platform Facilitator Guide
+# Level-up CSP Technical Training – Power Platform Facilitator Guide
 
-Build a copilot for your retail customer webpage
+## Build a copilot for your retail customer webpage
 
-Lab Guide for Retail Scenario
+## Lab Guide for Retail Scenario
 
 | Description | Develop a Virtual Assistant copilot for Contoso Electronics' website to enhance customer support by simplifying the laptop discovery process, providing tailored recommendations, and offering side-by-side device comparisons. The copilot will also inform customers about current deals, accessories, and protection plans. Additionally, it will assist with appointment scheduling for further consultation with sales associates. To streamline the post-purchase process, the copilot will provide information on Contoso’s return policies, check return eligibility, and enable customers to submit refund requests directly within the chat interface for a seamless user experience. |
 |----|----|
@@ -24,129 +24,6 @@ this document for your internal reference purposes. 
  
 
 © 2024 Microsoft. All rights reserved.  
-
-# Table of Contents
-
-[Exercise 1: Signup and Build a Copilot in Microsoft Copilot Studio with
-New AI Capabilities
-[4](#exercise-1-signup-and-build-a-copilot-in-microsoft-copilot-studio-with-new-ai-capabilities)](#exercise-1-signup-and-build-a-copilot-in-microsoft-copilot-studio-with-new-ai-capabilities)
-
-[Task 1: Sign In Copilot Studio
-[4](#task-1-sign-in-copilot-studio)](#task-1-sign-in-copilot-studio)
-
-[Task 3: Create Contoso Electronics Services Copilot
-[6](#task-3-create-contoso-electronics-services-copilot)](#task-3-create-contoso-electronics-services-copilot)
-
-[Task 4: Configure Security and Generative AI
-[9](#task-4-configure-security-and-generative-ai)](#task-4-configure-security-and-generative-ai)
-
-[Task 5: Create Knowledge Base for Copilot
-[12](#task-5-create-knowledge-base-for-copilot)](#task-5-create-knowledge-base-for-copilot)
-
-[Task 6: Publish Your Copilot
-[14](#task-6-publish-your-copilot)](#task-6-publish-your-copilot)
-
-[Conclusion [15](#conclusion)](#conclusion)
-
-[Exercise 2: Create and Manage Topics
-[15](#exercise-2-create-and-manage-topics)](#exercise-2-create-and-manage-topics)
-
-[Task 1: Create a Topic "Product Information"
-[16](#task-1-create-a-topic-product-information)](#task-1-create-a-topic-product-information)
-
-[Task 2: Create “Student laptop deals” topic
-[19](#task-2-create-student-laptop-deals-topic)](#task-2-create-student-laptop-deals-topic)
-
-[Task 3: Create a Topic “Compare laptop”
-[23](#task-3-create-a-topic-compare-laptop)](#task-3-create-a-topic-compare-laptop)
-
-[Task 4: Create a Topic "Book Appointments"
-[26](#task-4-create-a-topic-book-appointments)](#task-4-create-a-topic-book-appointments)
-
-[Task 5: Create Protection Plan Topic
-[38](#task-5-create-protection-plan-topic)](#task-5-create-protection-plan-topic)
-
-[Task 6: Configure the Conversation Start Topic
-[42](#task-6-configure-the-conversation-start-topic)](#task-6-configure-the-conversation-start-topic)
-
-[Task 7: Configure the Conversational Boosting Topic
-[43](#task-7-configure-the-conversational-boosting-topic)](#task-7-configure-the-conversational-boosting-topic)
-
-[Task 8: Use Generative Answers in the System Fallback Topic
-[45](#task-8-use-generative-answers-in-the-system-fallback-topic)](#task-8-use-generative-answers-in-the-system-fallback-topic)
-
-[Task 9: Publish the Copilot
-[48](#task-9-publish-the-copilot)](#task-9-publish-the-copilot)
-
-[Conclusion [48](#conclusion-1)](#conclusion-1)
-
-[Test the Copilot [49](#test-the-copilot)](#test-the-copilot)
-
-[Exercise 3: Signup for Power App and Create Custom Table
-[52](#exercise-3-signup-for-power-app-and-create-custom-table)](#exercise-3-signup-for-power-app-and-create-custom-table)
-
-[Task 1: Sign Up for Microsoft Power Apps
-[53](#task-1-sign-up-for-microsoft-power-apps)](#task-1-sign-up-for-microsoft-power-apps)
-
-[Task 2: Create a Solution in Power Apps
-[55](#task-2-create-a-solution-in-power-apps)](#task-2-create-a-solution-in-power-apps)
-
-[Task 3: Set the Preferred Solution
-[58](#task-3-set-the-preferred-solution)](#task-3-set-the-preferred-solution)
-
-[Task 4: Create the "Book Appointments" Table
-[59](#task-4-create-the-book-appointments-table)](#task-4-create-the-book-appointments-table)
-
-[Conclusion [63](#conclusion-2)](#conclusion-2)
-
-[Exercise 4: Create Power Automate Flow and Integrate Actions
-[63](#exercise-4-create-power-automate-flow-and-integrate-actions)](#exercise-4-create-power-automate-flow-and-integrate-actions)
-
-[Task 1: Create Power Automate Flow to Book an Appointment
-[64](#task-1-create-power-automate-flow-to-book-an-appointment)](#task-1-create-power-automate-flow-to-book-an-appointment)
-
-[Task 2: Create Action in Copilot for Book Appointments
-[72](#task-2-create-action-in-copilot-for-book-appointments)](#task-2-create-action-in-copilot-for-book-appointments)
-
-[Task 5: Publish the copilot
-[76](#task-5-publish-the-copilot)](#task-5-publish-the-copilot)
-
-[Conclusion [76](#conclusion-3)](#conclusion-3)
-
-[Test Copilot [76](#test-copilot)](#test-copilot)
-
-[Exercise 5: Create Power Apps Table for Refund Requests
-[79](#exercise-5-create-power-apps-table-for-refund-requests)](#exercise-5-create-power-apps-table-for-refund-requests)
-
-[Conclusion [85](#conclusion-4)](#conclusion-4)
-
-[Exercise 6: Create and Manage Topics for Refund Request and Policy
-Information
-[85](#exercise-6-create-and-manage-topics-for-refund-request-and-policy-information)](#exercise-6-create-and-manage-topics-for-refund-request-and-policy-information)
-
-[Task 1: Create a Topic "Refund or Return Policy Information"
-[85](#task-1-create-a-topic-refund-or-return-policy-information)](#task-1-create-a-topic-refund-or-return-policy-information)
-
-[Task 2: Create a Topic "Refund Request"
-[89](#task-2-create-a-topic-refund-request)](#task-2-create-a-topic-refund-request)
-
-[Conclusion [99](#conclusion-5)](#conclusion-5)
-
-[Exercise 7: Create Power Automate Flow and Action for Refund Requests
-[99](#exercise-7-create-power-automate-flow-and-action-for-refund-requests)](#exercise-7-create-power-automate-flow-and-action-for-refund-requests)
-
-[Task 1: Create Power Automate Flow to Refund Request Flow
-[99](#task-1-create-power-automate-flow-to-refund-request-flow)](#task-1-create-power-automate-flow-to-refund-request-flow)
-
-[Task 2: Create Action in Copilot for Refund Requests
-[107](#task-2-create-action-in-copilot-for-refund-requests)](#task-2-create-action-in-copilot-for-refund-requests)
-
-[Task 3: Publish Your Copilot
-[112](#task-3-publish-your-copilot)](#task-3-publish-your-copilot)
-
-[Conclusion [112](#conclusion-6)](#conclusion-6)
-
-[Final Test [113](#final-test)](#final-test)
 
 # **Objective & Scenario**
 
